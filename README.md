@@ -1,0 +1,1 @@
+Contains language files from Translate extensions.
