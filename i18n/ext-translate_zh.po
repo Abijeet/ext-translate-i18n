@@ -12,7 +12,7 @@
 # Author: Vodnokon4e
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-11 08:26\n"
+"PO-Revision-Date: 2021-08-17 14:07\n"
 "POT-Creation-Date: 2021-07-27 09:09:01+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,11 +23,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: ext-translate-i18n\n"
 "X-Crowdin-Project-ID: 469362\n"
-"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /[Abijeet.ext-translate-i18n] main/i18n/ext-translate_en.po\n"
 "X-Crowdin-File-ID: 5\n"
 "Project-Id-Version: ext-translate-i18n\n"
-"Language-Team: Chinese Simplified\n"
+"Language-Team: Chinese Traditional\n"
 
 #. [Wiki] {{doc-apihelp-description|aggregategroups}}
 msgctxt "apihelp-aggregategroups-description"
