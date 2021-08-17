@@ -23,11 +23,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: ext-translate-i18n\n"
 "X-Crowdin-Project-ID: 469362\n"
-"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /[Abijeet.ext-translate-i18n] main/i18n/ext-translate_en.po\n"
 "X-Crowdin-File-ID: 5\n"
 "Project-Id-Version: ext-translate-i18n\n"
-"Language-Team: Portuguese\n"
+"Language-Team: Portuguese, Brazilian\n"
 
 #. [Wiki] {{doc-apihelp-description|aggregategroups}}
 msgctxt "apihelp-aggregategroups-description"
