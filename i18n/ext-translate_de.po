@@ -12,7 +12,7 @@
 # Author: Vodnokon4e
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-11 06:01\n"
+"PO-Revision-Date: 2021-08-17 14:07\n"
 "POT-Creation-Date: 2021-07-27 09:09:01+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1087,7 +1087,7 @@ msgstr "Es sind keine Nachrichten zur Anzeige vorhanden."
 #, optional
 msgctxt "translate-page-paging-links"
 msgid "[ $1 ] [ $2 ]"
-msgstr ""
+msgstr "[ $1 ] [ $2 ]"
 
 #. [Wiki] {{Identical|Next page}}
 msgctxt "translate-next"
