@@ -2030,7 +2030,7 @@ msgstr "Legend for the color: Last translation $1 days ago."
 #. [Wiki] Place any site specific message here.
 #, ignored
 msgctxt "supportedlanguages-localsummary"
-msgid ""
+msgid "Supported languages - Summary"
 msgstr ""
 
 #. [Wiki] {{optional}}
@@ -3768,7 +3768,7 @@ msgstr "Restore this page to normal translation."
 #. [Wiki] Shown when editing translatable pages. Default is empty.
 #, ignored
 msgctxt "translate-edit-tag-warning"
-msgid ""
+msgid "Translate edit tag warning"
 msgstr ""
 
 #. [Wiki] Link at the top of translatable pages, see [[mw:Help:Extension:Translate/Translation example]] for context.
