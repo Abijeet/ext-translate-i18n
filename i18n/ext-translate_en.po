@@ -13,8 +13,6 @@
 # Author: StanProg
 # Author: The Discoverer
 # Author: Vodnokon4e
-msgid ""
-msgstr ""
 ""
 "PO-Revision-Date: 2021-07-27 09:09:01+0000\n"
 "POT-Creation-Date: 2021-07-27 09:09:01+0000\n"
