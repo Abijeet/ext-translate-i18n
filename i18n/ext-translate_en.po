@@ -14,2077 +14,10 @@
 # Author: The Discoverer
 # Author: Vodnokon4e
 
-#. [Wiki] {{doc-apihelp-description|aggregategroups}}
-msgctxt "apihelp-aggregategroups-description"
-msgid "Manage aggregate message groups.\n\nYou can add and remove aggregate message groups and associate or dissociate message groups from them (one at a time)."
-msgstr "Manage aggregate message groups.\n\nYou can add and remove aggregate message groups and associate or dissociate message groups from them (one at a time)."
-
-#. [Wiki] {{doc-apihelp-summary|aggregategroups}}
-msgctxt "apihelp-aggregategroups-summary"
-msgid "Manage aggregate message groups."
-msgstr "Manage aggregate message groups."
-
-#. [Wiki] {{doc-apihelp-extended-description|aggregategroups}}
-msgctxt "apihelp-aggregategroups-extended-description"
-msgid "You can add and remove aggregate message groups and associate or dissociate message groups from them (one at a time)."
-msgstr "You can add and remove aggregate message groups and associate or dissociate message groups from them (one at a time)."
-
-#. [Wiki] {{doc-apihelp-param|aggregategroups|do}}
-msgctxt "apihelp-aggregategroups-param-do"
-msgid "What to do with aggregate message group."
-msgstr "What to do with aggregate message group."
-
-#. [Wiki] {{doc-apihelp-param|aggregategroups|aggregategroup}}
-msgctxt "apihelp-aggregategroups-param-aggregategroup"
-msgid "Aggregate message group ID."
-msgstr "Aggregate message group ID."
-
-#. [Wiki] {{doc-apihelp-param|aggregategroups|group}}
-msgctxt "apihelp-aggregategroups-param-group"
-msgid "Message group ID."
-msgstr "Message group ID."
-
-#. [Wiki] {{doc-apihelp-param|aggregategroups|groupname}}
-msgctxt "apihelp-aggregategroups-param-groupname"
-msgid "Aggregate message group name."
-msgstr "Aggregate message group name."
-
-#. [Wiki] {{doc-apihelp-param|aggregategroups|groupdescription}}
-msgctxt "apihelp-aggregategroups-param-groupdescription"
-msgid "Aggregate message group description."
-msgstr "Aggregate message group description."
-
-#. [Wiki] {{doc-apihelp-example|aggregategroups}}
-msgctxt "apihelp-aggregategroups-example-1"
-msgid "Associate a group"
-msgstr "Associate a group"
-
-#. [Wiki] {{doc-apihelp-description|groupreview}}
-msgctxt "apihelp-groupreview-description"
-msgid "Set message group workflow states."
-msgstr "Set message group workflow states."
-
-#. [Wiki] {{doc-apihelp-summary|groupreview}}
-msgctxt "apihelp-groupreview-summary"
-msgid "Set message group workflow states."
-msgstr "Set message group workflow states."
-
-#. [Wiki] {{doc-apihelp-param|groupreview|group}}
-msgctxt "apihelp-groupreview-param-group"
-msgid "Message group."
-msgstr "Message group."
-
-#. [Wiki] {{doc-apihelp-param|groupreview|language}}
-#. [Wiki] {{Identical|Language code}}
-msgctxt "apihelp-groupreview-param-language"
-msgid "Language code."
-msgstr "Language code."
-
-#. [Wiki] {{doc-apihelp-param|groupreview|state}}
-msgctxt "apihelp-groupreview-param-state"
-msgid "The new state for the group."
-msgstr "The new state for the group."
-
-#. [Wiki] {{doc-apihelp-example|groupreview}}
-msgctxt "apihelp-groupreview-example-1"
-msgid "Mark the state of the German translation for the message group \"group-Example\" as ready"
-msgstr "Mark the state of the German translation for the message group \"group-Example\" as ready"
-
-#. [Wiki] {{doc-apihelp-description|query+languagestats}}
-msgctxt "apihelp-query+languagestats-description"
-msgid "Query language stats."
-msgstr "Query language stats."
-
-#. [Wiki] {{doc-apihelp-summary|query+languagestats}}
-msgctxt "apihelp-query+languagestats-summary"
-msgid "Query language stats."
-msgstr "Query language stats."
-
-#. [Wiki] {{doc-apihelp-param|query+languagestats|language}}
-#. [Wiki] {{Identical|Language code}}
-msgctxt "apihelp-query+languagestats-param-language"
-msgid "Language code."
-msgstr "Language code."
-
-#. [Wiki] {{doc-apihelp-example|query+languagestats}}
-msgctxt "apihelp-query+languagestats-example-1"
-msgid "List of translation completion statistics for Finnish"
-msgstr "List of translation completion statistics for Finnish"
-
-#. [Wiki] {{doc-apihelp-description|query+messagecollection}}
-msgctxt "apihelp-query+messagecollection-description"
-msgid "Query MessageCollection about translations."
-msgstr "Query MessageCollection about translations."
-
-#. [Wiki] {{doc-apihelp-summary|query+managemessagegroups}}
-msgctxt "apihelp-query+managemessagegroups-summary"
-msgid "Fetch possible renames for a message in a group during imports"
-msgstr "Fetch possible renames for a message in a group during imports"
-
-#. [Wiki] {{doc-apihelp-description|query+managemessagegroups}}
-msgctxt "apihelp-query+managemessagegroups-description"
-msgid "Fetch possible renames for a message in a group during imports"
-msgstr "Fetch possible renames for a message in a group during imports"
-
-#. [Wiki] {{doc-apihelp-param|query+managemessagegroups|groupId}}
-msgctxt "apihelp-query+managemessagegroups-param-groupId"
-msgid "Group Id"
-msgstr "Group Id"
-
-#. [Wiki] {{doc-apihelp-param|query+managemessagegroups|messageKey}}
-msgctxt "apihelp-query+managemessagegroups-param-messageKey"
-msgid "Message key"
-msgstr "Message key"
-
-#. [Wiki] {{doc-apihelp-param|query+managemessagegroups|changesetName}}
-msgctxt "apihelp-query+managemessagegroups-param-changesetName"
-msgid "Change set name - Default / Unattended / Mediawiki etc."
-msgstr "Change set name - Default / Unattended / Mediawiki etc."
-
-#. [Wiki] {{doc-apihelp-example|query+managemessagegroups}}
-msgctxt "apihelp-query+managemessagegroups-example-1"
-msgid "Fetch possible renames for the given key in the given group."
-msgstr "Fetch possible renames for the given key in the given group."
-
-#. [Wiki] {{doc-apihelp-summary|query+messagecollection}}
-msgctxt "apihelp-query+messagecollection-summary"
-msgid "Query MessageCollection about translations."
-msgstr "Query MessageCollection about translations."
-
-#. [Wiki] {{doc-apihelp-param|query+messagecollection|group}}
-msgctxt "apihelp-query+messagecollection-param-group"
-msgid "Message group."
-msgstr "Message group."
-
-#. [Wiki] {{doc-apihelp-param|query+messagecollection|language}}
-#. [Wiki] {{Identical|Language code}}
-msgctxt "apihelp-query+messagecollection-param-language"
-msgid "Language code."
-msgstr "Language code."
-
-#. [Wiki] {{doc-apihelp-param|query+messagecollection|limit}}
-msgctxt "apihelp-query+messagecollection-param-limit"
-msgid "How many messages to show (after filtering)."
-msgstr "How many messages to show (after filtering)."
-
-#. [Wiki] {{doc-apihelp-param|query+messagecollection|offset}}
-msgctxt "apihelp-query+messagecollection-param-offset"
-msgid "Integer or key offset for start."
-msgstr "Integer or key offset for start."
-
-#. [Wiki] Copy "&amp;#58;N", which appears twice towards the end as is. It is the character ":", which cannot be used because it would be considered markup.
-#. [Wiki] 
-#. [Wiki] {{doc-apihelp-param|query+messagecollection|filter}}
-msgctxt "apihelp-query+messagecollection-param-filter"
-msgid "Message collection filters. Use <kbd>!</kbd> to negate condition. For example <kbd>!fuzzy</kbd> means list only all non-fuzzy messages. Filters are applied in the order given.\n;fuzzy:Messages with fuzzy tag.\n;optional:Messages which should be translated only if changes are necessary.\n;ignored:Messages which are never translated.\n;hastranslation:Messages which have a translation regardless if it is fuzzy or not.\n;translated:Messages which have a translation which is not fuzzy.\n;changed:Messages which have been translated or changed since last export.\n;reviewer&#58;N:Messages where the user number <kbd>N</kbd> is among reviewers.\n;last-translator&#58;N:Messages where the user number <kbd>N</kbd> is the last translator."
-msgstr "Message collection filters. Use <kbd>!</kbd> to negate condition. For example <kbd>!fuzzy</kbd> means list only all non-fuzzy messages. Filters are applied in the order given.\n;fuzzy:Messages with fuzzy tag.\n;optional:Messages which should be translated only if changes are necessary.\n;ignored:Messages which are never translated.\n;hastranslation:Messages which have a translation regardless if it is fuzzy or not.\n;translated:Messages which have a translation which is not fuzzy.\n;changed:Messages which have been translated or changed since last export.\n;reviewer&#58;N:Messages where the user number <kbd>N</kbd> is among reviewers.\n;last-translator&#58;N:Messages where the user number <kbd>N</kbd> is the last translator."
-
-#. [Wiki] {{doc-apihelp-param|query+messagecollection|prop}}
-#. [Wiki] {{doc-important|You can translate the word "Deprecated", but please do not alter the <code><nowiki>class="deprecated"</nowiki></code> attribute}}
-msgctxt "apihelp-query+messagecollection-param-prop"
-msgid "Which properties to get:\n;definition:Message definition.\n;translation:Current translation (without $1 string if any, use the tags to check for outdated or broken translations).\n;tags:Message tags, like optional, ignored and fuzzy.\n;properties:Message properties, like status, revision, last-translator. Can vary between messages.\n;revision:<span class=\"deprecated\">Deprecated!</span> Use $2prop=properties."
-msgstr "Which properties to get:\n;definition:Message definition.\n;translation:Current translation (without $1 string if any, use the tags to check for outdated or broken translations).\n;tags:Message tags, like optional, ignored and fuzzy.\n;properties:Message properties, like status, revision, last-translator. Can vary between messages.\n;revision:<span class=\"deprecated\">Deprecated!</span> Use $2prop=properties."
-
-#. [Wiki] {{doc-apihelp-example|query+messagecollection}}
-msgctxt "apihelp-query+messagecollection-example-1"
-msgid "List of supported languages"
-msgstr "List of supported languages"
-
-#. [Wiki] {{doc-apihelp-example|query+messagecollection}}
-msgctxt "apihelp-query+messagecollection-example-2"
-msgid "List of non-optional message definitions for the group \"page-Example\""
-msgstr "List of non-optional message definitions for the group \"page-Example\""
-
-#. [Wiki] {{doc-apihelp-example|query+messagecollection}}
-msgctxt "apihelp-query+messagecollection-example-3"
-msgid "List of optional messages in Finnish with tags for the group \"page-Example\""
-msgstr "List of optional messages in Finnish with tags for the group \"page-Example\""
-
-#. [Wiki] {{doc-apihelp-example|query+messagecollection}}
-msgctxt "apihelp-query+messagecollection-example-4"
-msgid "More information about latest translation revisions for the group \"page-Example\""
-msgstr "More information about latest translation revisions for the group \"page-Example\""
-
-#. [Wiki] {{doc-apihelp-description|query+messagegroups}}
-msgctxt "apihelp-query+messagegroups-description"
-msgid "Return information about message groups.\n\nNote that the uselang parameter affects the output of language dependent parts."
-msgstr "Return information about message groups.\n\nNote that the uselang parameter affects the output of language dependent parts."
-
-#. [Wiki] {{doc-apihelp-summary|query+messagegroups}}
-msgctxt "apihelp-query+messagegroups-summary"
-msgid "Return information about message groups."
-msgstr "Return information about message groups."
-
-#. [Wiki] {{doc-apihelp-extended-description|query+messagegroups}}
-msgctxt "apihelp-query+messagegroups-extended-description"
-msgid "Note that the uselang parameter affects the output of language dependent parts."
-msgstr "Note that the uselang parameter affects the output of language dependent parts."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroups|depth}}
-msgctxt "apihelp-query+messagegroups-param-depth"
-msgid "When using the tree format, limit the depth to this many levels. Value 0 means that no subgroups are shown. If the limit is reached, the output includes a \"groupcount\" value, which states the number of direct children."
-msgstr "When using the tree format, limit the depth to this many levels. Value 0 means that no subgroups are shown. If the limit is reached, the output includes a \"groupcount\" value, which states the number of direct children."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroups|filter}}
-msgctxt "apihelp-query+messagegroups-param-filter"
-msgid "Only return messages with IDs that match one or more of the inputs given (case-insensitive, separated by pipes, * wildcard)."
-msgstr "Only return messages with IDs that match one or more of the inputs given (case-insensitive, separated by pipes, * wildcard)."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroups|format}}
-msgctxt "apihelp-query+messagegroups-param-format"
-msgid "In the tree format message groups can exist in multiple places in the tree."
-msgstr "In the tree format message groups can exist in multiple places in the tree."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroups|iconsize}}
-msgctxt "apihelp-query+messagegroups-param-iconsize"
-msgid "Preferred size of rasterised group icon."
-msgstr "Preferred size of rasterised group icon."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroups|prop}}
-#. [Wiki] See the [[mw:Help:Extension:Translate/Message group states|description of ''states'']].
-msgctxt "apihelp-query+messagegroups-param-prop"
-msgid "What translation-related information to get:\n;id:Include ID of the group.\n;label:Include label of the group.\n;description:Include description of the group.\n;class:Include class name of the group.\n;namespace:Include namespace of the group. Not all groups belong to a single namespace.\n;exists:Include self-calculated existence property of the group.\n;icon:Include URLs to icon of the group.\n;priority:Include priority status like discouraged.\n;prioritylangs:Include preferred languages. If not set, this returns false.\n;priorityforce:Include priority status - is the priority languages setting forced.\n;workflowstates:Include the workflow states for the message group."
-msgstr "What translation-related information to get:\n;id:Include ID of the group.\n;label:Include label of the group.\n;description:Include description of the group.\n;class:Include class name of the group.\n;namespace:Include namespace of the group. Not all groups belong to a single namespace.\n;exists:Include self-calculated existence property of the group.\n;icon:Include URLs to icon of the group.\n;priority:Include priority status like discouraged.\n;prioritylangs:Include preferred languages. If not set, this returns false.\n;priorityforce:Include priority status - is the priority languages setting forced.\n;workflowstates:Include the workflow states for the message group."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroups|root}}
-msgctxt "apihelp-query+messagegroups-param-root"
-msgid "When using the tree format, instead of starting from top level start from the given message group, which must be an aggregate message group. When using flat format only the specified group is returned."
-msgstr "When using the tree format, instead of starting from top level start from the given message group, which must be an aggregate message group. When using flat format only the specified group is returned."
-
-#. [Wiki] {{doc-apihelp-example|query+messagegroups}}
-msgctxt "apihelp-query+messagegroups-example-1"
-msgid "Show message groups"
-msgstr "Show message groups"
-
-#. [Wiki] {{doc-apihelp-description|query+messagegroupstats}}
-msgctxt "apihelp-query+messagegroupstats-description"
-msgid "Query message group stats."
-msgstr "Query message group stats."
-
-#. [Wiki] {{doc-apihelp-summary|query+messagegroupstats}}
-msgctxt "apihelp-query+messagegroupstats-summary"
-msgid "Query message group stats."
-msgstr "Query message group stats."
-
-#. [Wiki] {{doc-apihelp-param|query+messagegroupstats|group}}
-msgctxt "apihelp-query+messagegroupstats-param-group"
-msgid "Message group ID."
-msgstr "Message group ID."
-
-#. [Wiki] {{doc-apihelp-example|query+messagegroupstats}}
-msgctxt "apihelp-query+messagegroupstats-example-1"
-msgid "List of translation completion statistics for the group \"page-Example\""
-msgstr "List of translation completion statistics for the group \"page-Example\""
-
-#. [Wiki] {{doc-apihelp-description|query+messagetranslations}}
-msgctxt "apihelp-query+messagetranslations-description"
-msgid "Query all translations for a single message."
-msgstr "Query all translations for a single message."
-
-#. [Wiki] {{doc-apihelp-summary|query+messagetranslations}}
-msgctxt "apihelp-query+messagetranslations-summary"
-msgid "Query all translations for a single message."
-msgstr "Query all translations for a single message."
-
-#. [Wiki] {{doc-apihelp-param|query+messagetranslations|title}}
-msgctxt "apihelp-query+messagetranslations-param-title"
-msgid "Full title of a known message."
-msgstr "Full title of a known message."
-
-#. [Wiki] Don't translate "MediaWiki:January".
-#. [Wiki] 
-#. [Wiki] {{doc-apihelp-example|query+messagetranslations}}
-msgctxt "apihelp-query+messagetranslations-example-1"
-msgid "List of translations in the wiki for \"MediaWiki:January\""
-msgstr "List of translations in the wiki for \"MediaWiki:January\""
-
-#. [Wiki] {{doc-apihelp-description|managemessagegroups}}
-msgctxt "apihelp-managemessagegroups-description"
-msgid "Add a message as a rename of an existing message or a new message in the group during imports"
-msgstr "Add a message as a rename of an existing message or a new message in the group during imports"
-
-#. [Wiki] {{doc-apihelp-summary|managemessagegroups}}
-msgctxt "apihelp-managemessagegroups-summary"
-msgid "Add a message as a rename of an existing message or a new message in the group during imports"
-msgstr "Add a message as a rename of an existing message or a new message in the group during imports"
-
-#. [Wiki] {{doc-apihelp-param|managemessagegroups|groupId}}
-msgctxt "apihelp-managemessagegroups-param-groupId"
-msgid "Group Id"
-msgstr "Group Id"
-
-#. [Wiki] {{doc-apihelp-param|managemessagegroups|renameMessageKey}}
-msgctxt "apihelp-managemessagegroups-param-renameMessageKey"
-msgid "Target message key being renamed"
-msgstr "Target message key being renamed"
-
-#. [Wiki] {{doc-apihelp-param|managemessagegroups|messageKey}}
-msgctxt "apihelp-managemessagegroups-param-messageKey"
-msgid "Replacement message key"
-msgstr "Replacement message key"
-
-#. [Wiki] {{doc-apihelp-param|managemessagegroups|operation}}
-msgctxt "apihelp-managemessagegroups-param-operation"
-msgid "The operation to be performed. Possible values: rename / new"
-msgstr "The operation to be performed. Possible values: rename / new"
-
-#. [Wiki] {{doc-apihelp-param|managemessagegroups|changesetName}}
-msgctxt "apihelp-managemessagegroups-param-changesetName"
-msgid "Change set name - Default / Unattended / Mediawiki etc."
-msgstr "Change set name - Default / Unattended / Mediawiki etc."
-
-#. [Wiki] {{doc-apihelp-param|managemessagegroups|changesetModified}}
-msgctxt "apihelp-managemessagegroups-param-changesetModified"
-msgid "Unix timestamp of when the changeset was last modified. If the changeset has been modified after this the API will throw an error."
-msgstr "Unix timestamp of when the changeset was last modified. If the changeset has been modified after this the API will throw an error."
-
-#. [Wiki] {{doc-apihelp-description|managegroupsynchronizationcache}}
-msgctxt "apihelp-managegroupsynchronizationcache-description"
-msgid "Manage group synchronization cache."
-msgstr "Manage group synchronization cache."
-
-#. [Wiki] {{doc-apihelp-summary|managegroupsynchronizationcache}}
-msgctxt "apihelp-managegroupsynchronizationcache-summary"
-msgid "Manage group synchronization cache."
-msgstr "Manage group synchronization cache."
-
-#. [Wiki] {{doc-apihelp-param|managegroupsynchronizationcache|operation}}
-msgctxt "apihelp-managegroupsynchronizationcache-param-operation"
-msgid "The operation to be performed. Possible values: resolve"
-msgstr "The operation to be performed. Possible values: resolve"
-
-#. [Wiki] {{doc-apihelp-param|managegroupsynchronizationcache|messageTitle}}
-msgctxt "apihelp-managegroupsynchronizationcache-param-messageTitle"
-msgid "Message title being marked as resolved"
-msgstr "Message title being marked as resolved"
-
-#. [Wiki] {{doc-apihelp-param|managegroupsynchronizationcache|groupId}}
-msgctxt "apihelp-managegroupsynchronizationcache-param-groupId"
-msgid "Group Id of the message being resolved"
-msgstr "Group Id of the message being resolved"
-
-#. [Wiki] {{doc-apihelp-description|translatesandbox}}
-msgctxt "apihelp-translatesandbox-description"
-msgid "Signup and manage sandboxed users."
-msgstr "Signup and manage sandboxed users."
-
-#. [Wiki] {{doc-apihelp-summary|translatesandbox}}
-msgctxt "apihelp-translatesandbox-summary"
-msgid "Signup and manage sandboxed users."
-msgstr "Signup and manage sandboxed users."
-
-#. [Wiki] {{doc-apihelp-param|translatesandbox|do}}
-msgctxt "apihelp-translatesandbox-param-do"
-msgid "What to do."
-msgstr "What to do."
-
-#. [Wiki] {{doc-apihelp-param|translatesandbox|userid}}
-msgctxt "apihelp-translatesandbox-param-userid"
-msgid "User IDs of the users being managed. Use 0 for creations."
-msgstr "User IDs of the users being managed. Use 0 for creations."
-
-#. [Wiki] {{doc-apihelp-param|translatesandbox|username}}
-msgctxt "apihelp-translatesandbox-param-username"
-msgid "Username when creating user."
-msgstr "Username when creating user."
-
-#. [Wiki] {{doc-apihelp-param|translatesandbox|password}}
-msgctxt "apihelp-translatesandbox-param-password"
-msgid "Password when creating user."
-msgstr "Password when creating user."
-
-#. [Wiki] {{doc-apihelp-param|translatesandbox|email}}
-msgctxt "apihelp-translatesandbox-param-email"
-msgid "Email when creating user."
-msgstr "Email when creating user."
-
-#. [Wiki] {{doc-apihelp-description|translationaids}}
-msgctxt "apihelp-translationaids-description"
-msgid "Query all translations aids."
-msgstr "Query all translations aids."
-
-#. [Wiki] {{doc-apihelp-summary|translationaids}}
-msgctxt "apihelp-translationaids-summary"
-msgid "Query all translations aids."
-msgstr "Query all translations aids."
-
-#. [Wiki] {{doc-apihelp-param|translationaids|title}}
-msgctxt "apihelp-translationaids-param-title"
-msgid "Full title of a known message."
-msgstr "Full title of a known message."
-
-#. [Wiki] {{doc-apihelp-param|translationaids|group}}
-#. [Wiki] 
-#. [Wiki] The term "primary group" is explained at https://www.mediawiki.org/wiki/Help:Extension:Translate/Glossary
-#. [Wiki] as "primary message group".
-msgctxt "apihelp-translationaids-param-group"
-msgid "Message group the message belongs to. If empty then primary group is used."
-msgstr "Message group the message belongs to. If empty then primary group is used."
-
-#. [Wiki] {{doc-apihelp-param|translationaids|prop}}
-msgctxt "apihelp-translationaids-param-prop"
-msgid "Which translation helpers to include."
-msgstr "Which translation helpers to include."
-
-#. [Wiki] Don't translate "<nowiki>[[MediaWiki:January/fi]]</nowiki>".
-#. [Wiki] 
-#. [Wiki] {{doc-apihelp-example|translationaids}}
-msgctxt "apihelp-translationaids-example-1"
-msgid "Show aids for [[MediaWiki:January/fi]]"
-msgstr "Show aids for [[MediaWiki:January/fi]]"
-
-#. [Wiki] {{doc-apihelp-description|translationreview}}
-msgctxt "apihelp-translationreview-description"
-msgid "Mark translations reviewed."
-msgstr "Mark translations reviewed."
-
-#. [Wiki] {{doc-apihelp-summary|translationreview}}
-msgctxt "apihelp-translationreview-summary"
-msgid "Mark translations reviewed."
-msgstr "Mark translations reviewed."
-
-#. [Wiki] {{doc-apihelp-param|translationreview|revision}}
-msgctxt "apihelp-translationreview-param-revision"
-msgid "The revision number to review."
-msgstr "The revision number to review."
-
-#. [Wiki] {{doc-apihelp-example|translationreview}}
-msgctxt "apihelp-translationreview-example-1"
-msgid "Review revision 1"
-msgstr "Review revision 1"
-
-#. [Wiki] See the [[mw:Help:Extension:Translate/Glossary|glossary item for "stash"]].
-#. [Wiki] ----
-#. [Wiki] {{doc-apihelp-description|translationstash}}
-msgctxt "apihelp-translationstash-description"
-msgid "Add translations to stash."
-msgstr "Add translations to stash."
-
-#. [Wiki] See the [[mw:Help:Extension:Translate/Glossary|glossary item for "stash"]].
-#. [Wiki] ----
-#. [Wiki] {{doc-apihelp-summary|translationstash}}
-msgctxt "apihelp-translationstash-summary"
-msgid "Add translations to stash."
-msgstr "Add translations to stash."
-
-#. [Wiki] {{doc-apihelp-param|translationstash|subaction}}
-#. [Wiki] {{Identical|Action}}
-msgctxt "apihelp-translationstash-param-subaction"
-msgid "Action."
-msgstr "Action."
-
-#. [Wiki] See the [[mw:Help:Extension:Translate/Glossary|Translate glossary]] for a definition.
-#. [Wiki] ----
-#. [Wiki] {{doc-apihelp-param|translationstash|title}}
-msgctxt "apihelp-translationstash-param-title"
-msgid "Title of the translation unit page."
-msgstr "Title of the translation unit page."
-
-#. [Wiki] {{doc-apihelp-param|translationstash|translation}}
-msgctxt "apihelp-translationstash-param-translation"
-msgid "Translation made by the user."
-msgstr "Translation made by the user."
-
-#. [Wiki] {{doc-apihelp-param|translationstash|metadata}}
-msgctxt "apihelp-translationstash-param-metadata"
-msgid "JSON object."
-msgstr "JSON object."
-
-#. [Wiki] See the [[mw:Help:Extension:Translate/Glossary|glossary item for "stash"]].
-#. [Wiki] ----
-#. [Wiki] {{doc-apihelp-param|translationstash|username}}
-#. [Wiki] The stash is also called [[mw:Translation_UX/Specification#Translation_sandbox|sandbox]].
-msgctxt "apihelp-translationstash-param-username"
-msgid "Optionally the user whose stash to get. Only privileged users can do this."
-msgstr "Optionally the user whose stash to get. Only privileged users can do this."
-
-#. [Wiki] See the [[mw:Help:Extension:Translate/Glossary|glossary item for "stash"]].
-#. [Wiki] ----
-#. [Wiki] {{doc-apihelp-example|translationstash}}
-#. [Wiki] The stash is also called [[mw:Translation_UX/Specification#Translation_sandbox|sandbox]].
-msgctxt "apihelp-translationstash-example-1"
-msgid "Add a translation to the stash for [[MediaWiki:Jan/fi]]"
-msgstr "Add a translation to the stash for [[MediaWiki:Jan/fi]]"
-
-#. [Wiki] See the [[mw:Help:Extension:Translate/Glossary|glossary item for "stash"]].
-#. [Wiki] ----
-#. [Wiki] {{doc-apihelp-example|translationstash}}
-#. [Wiki] The stash is also called [[mw:Translation_UX/Specification#Translation_sandbox|sandbox]].
-msgctxt "apihelp-translationstash-example-2"
-msgid "Query the stash"
-msgstr "Query the stash"
-
-#. [Wiki] {{doc-apihelp-description|ttmserver}}
-msgctxt "apihelp-ttmserver-description"
-msgid "Query suggestions from translation memories."
-msgstr "Query suggestions from translation memories."
-
-#. [Wiki] {{doc-apihelp-summary|ttmserver}}
-msgctxt "apihelp-ttmserver-summary"
-msgid "Query suggestions from translation memories."
-msgstr "Query suggestions from translation memories."
-
-#. [Wiki] {{doc-apihelp-param|ttmserver|service}}
-msgctxt "apihelp-ttmserver-param-service"
-msgid "Which of the available translation services to use."
-msgstr "Which of the available translation services to use."
-
-#. [Wiki] {{doc-apihelp-param|ttmserver|sourcelanguage}}
-msgctxt "apihelp-ttmserver-param-sourcelanguage"
-msgid "The language code of the source text."
-msgstr "The language code of the source text."
-
-#. [Wiki] {{doc-apihelp-param|ttmserver|targetlanguage}}
-msgctxt "apihelp-ttmserver-param-targetlanguage"
-msgid "The language code of the suggestion."
-msgstr "The language code of the suggestion."
-
-#. [Wiki] {{doc-apihelp-param|ttmserver|text}}
-msgctxt "apihelp-ttmserver-param-text"
-msgid "The text to find suggestions for."
-msgstr "The text to find suggestions for."
-
-#. [Wiki] {{doc-apihelp-example|ttmserver}}
-msgctxt "apihelp-ttmserver-example-1"
-msgid "Get suggestions for translating \"Help\" from English to Finnish"
-msgstr "Get suggestions for translating \"Help\" from English to Finnish"
-
-#. [Wiki] {{doc-apihelp-description|searchtranslations}}
-msgctxt "apihelp-searchtranslations-description"
-msgid "Search translations."
-msgstr "Search translations."
-
-#. [Wiki] {{doc-apihelp-summary|searchtranslations}}
-msgctxt "apihelp-searchtranslations-summary"
-msgid "Search translations."
-msgstr "Search translations."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|service}}
-msgctxt "apihelp-searchtranslations-param-service"
-msgid "Which of the available translation services to use."
-msgstr "Which of the available translation services to use."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|query}}
-msgctxt "apihelp-searchtranslations-param-query"
-msgid "The string to search for."
-msgstr "The string to search for."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|sourcelanguage}}
-msgctxt "apihelp-searchtranslations-param-sourcelanguage"
-msgid "The language code of the source text."
-msgstr "The language code of the source text."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|language}}
-msgctxt "apihelp-searchtranslations-param-language"
-msgid "The language code to search string for."
-msgstr "The language code to search string for."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|group}}
-msgctxt "apihelp-searchtranslations-param-group"
-msgid "The group ID to search string in."
-msgstr "The group ID to search string in."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|filter}}
-msgctxt "apihelp-searchtranslations-param-filter"
-msgid "Message translation status filter."
-msgstr "Message translation status filter."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|match}}
-msgctxt "apihelp-searchtranslations-param-match"
-msgid "Match any/all search words."
-msgstr "Match any/all search words."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|case}}
-msgctxt "apihelp-searchtranslations-param-case"
-msgid "Case (in)sensitive search."
-msgstr "Case (in)sensitive search."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|offset}}
-msgctxt "apihelp-searchtranslations-param-offset"
-msgid "Offset for the translations."
-msgstr "Offset for the translations."
-
-#. [Wiki] {{doc-apihelp-param|searchtranslations|limit}}
-msgctxt "apihelp-searchtranslations-param-limit"
-msgid "Size of the result."
-msgstr "Size of the result."
-
-#. [Wiki] {{doc-apihelp-example|searchtranslations}}
-msgctxt "apihelp-searchtranslations-example-1"
-msgid "Show translations for the language."
-msgstr "Show translations for the language."
-
-#. [Wiki] {{doc-apihelp-example|searchtranslations}}
-msgctxt "apihelp-searchtranslations-example-2"
-msgid "Show untranslated messages matching the query in the source language."
-msgstr "Show untranslated messages matching the query in the source language."
-
-#. [Wiki] {{doc-apihelp-description|translationcheck}}
-msgctxt "apihelp-translationcheck-description"
-msgid "Validate given translation input against configured message validators."
-msgstr "Validate given translation input against configured message validators."
-
-#. [Wiki] {{doc-apihelp-summary|translationcheck}}
-msgctxt "apihelp-translationcheck-summary"
-msgid "Validate translations."
-msgstr "Validate translations."
-
-#. [Wiki] {{doc-apihelp-param|translationcheck|title}}
-msgctxt "apihelp-translationcheck-param-title"
-msgid "Page title with namespace and language code."
-msgstr "Page title with namespace and language code."
-
-#. [Wiki] {{doc-apihelp-param|translationcheck|translation}}
-msgctxt "apihelp-translationcheck-param-translation"
-msgid "The translation to validate."
-msgstr "The translation to validate."
-
-#. [Wiki] {{doc-apihelp-description|translationstats}}
-msgctxt "apihelp-translationstats-description"
-msgid "Fetch translation statistics related to translation edits, active translations, new users, translation reviews and reviewers."
-msgstr "Fetch translation statistics related to translation edits, active translations, new users, translation reviews and reviewers."
-
-#. [Wiki] {{doc-apihelp-summary|translationstats}}
-msgctxt "apihelp-translationstats-summary"
-msgid "Fetch translation statistics"
-msgstr "Fetch translation statistics"
-
-#. [Wiki] {{doc-apihelp-param|translationstats|count}}
-msgctxt "apihelp-translationstats-param-count"
-msgid "Type of statistics being requested"
-msgstr "Type of statistics being requested"
-
-#. [Wiki] {{doc-apihelp-param|translationstats|days}}
-msgctxt "apihelp-translationstats-param-days"
-msgid "Number of days to fetch statistics for"
-msgstr "Number of days to fetch statistics for"
-
-#. [Wiki] {{doc-apihelp-param|translationstats|group}}
-msgctxt "apihelp-translationstats-param-group"
-msgid "List of groups to fetch statistics for."
-msgstr "List of groups to fetch statistics for."
-
-#. [Wiki] {{doc-apihelp-param|translationstats|language}}
-msgctxt "apihelp-translationstats-param-language"
-msgid "List of languages to fetch statistics for."
-msgstr "List of languages to fetch statistics for."
-
-#. [Wiki] {{doc-apihelp-param|translationstats|scale}}
-#. [Wiki] 
-#. [Wiki] "Scale" here refers to the time period - days, months.
-msgctxt "apihelp-translationstats-param-scale"
-msgid "Scale of the translation statistics"
-msgstr "Scale of the translation statistics"
-
-#. [Wiki] {{doc-apihelp-param|translationstats|start}}
-msgctxt "apihelp-translationstats-param-start"
-msgid "Starting date from which to fetch translation statistics. Defaults to current date minus the number of 'days'."
-msgstr "Starting date from which to fetch translation statistics. Defaults to current date minus the number of 'days'."
-
-#. [Wiki] {{doc-apihelp-example|translationstats}}
-msgctxt "apihelp-translationstats-example-1"
-msgid "Fetch edit count for the last 30 days, for all groups and languages"
-msgstr "Fetch edit count for the last 30 days, for all groups and languages"
-
-#. [Wiki] {{doc-apihelp-example|translationstats}}
-msgctxt "apihelp-translationstats-example-2"
-msgid "Fetch edit count for the last 30 days, for languages English and French."
-msgstr "Fetch edit count for the last 30 days, for languages English and French."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-changeset-modified"
-msgid "The changeset has been modified by another user or process. Your changes cannot be saved as it might override their changes. Please refresh the page to see the latest changes."
-msgstr "The changeset has been modified by another user or process. Your changes cannot be saved as it might override their changes. Please refresh the page to see the latest changes."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-duplicateaggregategroup"
-msgid "Message group already exists"
-msgstr "Message group already exists"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-fuzzymessage"
-msgid "Cannot review fuzzy translations"
-msgstr "Cannot review fuzzy translations"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-groupreviewdisabled"
-msgid "Message group review not in use."
-msgstr "Message group review not in use."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-invalidaggregategroup"
-msgid "Invalid aggregate message group"
-msgstr "Invalid aggregate message group"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-invalidaggregategroupname"
-msgid "Invalid aggregate message group name"
-msgstr "Invalid aggregate message group name"
-
-#. [Wiki] {{notranslate}}
-#. [Wiki] {{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - Filter provided
-#, ignored
-msgctxt "apierror-translate-invalidfilter"
-msgid "$1"
-msgstr "$1"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-invalidgroup"
-msgid "Group does not exist or invalid"
-msgstr "Group does not exist or invalid"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-invalidstate"
-msgid "The requested state is invalid."
-msgstr "The requested state is invalid."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-invalidlanguage"
-msgid "The requested language is invalid."
-msgstr "The requested language is invalid."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-invalidupdate"
-msgid "Invalid update"
-msgstr "Invalid update"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-language-disabled"
-msgid "Translation to $1 is disabled."
-msgstr "Translation to $1 is disabled."
-
-#. [Wiki] {{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - language name
-#. [Wiki] * $2 - reason, probably in English
-msgctxt "apierror-translate-language-disabled-reason"
-msgid "Translation to $1 is disabled: $2"
-msgstr "Translation to $1 is disabled: $2"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-nodynamicgroups"
-msgid "Dynamic message groups are not supported here"
-msgstr "Dynamic message groups are not supported here"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-nomessagefortitle"
-msgid "Title does not correspond to a translatable message"
-msgstr "Title does not correspond to a translatable message"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-notranslationservices"
-msgid "No public translation services have been configured. The wiki administrator needs to set <var>$wgTranslateTranslationServices</var> appropriately before this feature can be used."
-msgstr "No public translation services have been configured. The wiki administrator needs to set <var>$wgTranslateTranslationServices</var> appropriately before this feature can be used."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-owntranslation"
-msgid "Cannot review own translations"
-msgstr "Cannot review own translations"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-sandboxdisabled"
-msgid "Sandbox feature is not in use"
-msgstr "Sandbox feature is not in use"
-
-#. [Wiki] {{notranslate}}
-#. [Wiki] {{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - Exception message, probably in English
-#, ignored
-msgctxt "apierror-translate-sandbox-invalidparam"
-msgid "$1"
-msgstr "$1"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-sandbox-invalidppassword"
-msgid "Invalid password"
-msgstr "Invalid password"
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-smg-nochanges"
-msgid "There are no changes to process."
-msgstr "There are no changes to process."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-unknownmessage"
-msgid "Unknown message"
-msgstr "Unknown message"
-
-#. [Wiki] {{doc-apierror}} 
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - Changeset file name passed in the request
-msgctxt "apierror-translate-invalid-changeset-name"
-msgid "Invalid changeset file name passed - $1"
-msgstr "Invalid changeset file name passed - $1"
-
-#. [Wiki] {{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - Operation value passed in request.
-#. [Wiki] * $2 - Comma separated list of valid values.
-msgctxt "apierror-translate-invalid-operation"
-msgid "Invalid operation: $1. Valid values - $2."
-msgstr "Invalid operation: $1. Valid values - $2."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-addition-key-invalid"
-msgid "Message key passed for addition was not found in the renamed message list for source language."
-msgstr "Message key passed for addition was not found in the renamed message list for source language."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-rename-msg-new"
-msgid "Only renamed messages can be added as new messages."
-msgstr "Only renamed messages can be added as new messages."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apierror-translate-rename-key-invalid"
-msgid "Message keys passed for rename were not found in the list of changes for the source language."
-msgstr "Message keys passed for rename were not found in the list of changes for the source language."
-
-#. [Wiki] '{{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - State of the message being added as the replacement.
-#. [Wiki] $2 - State of the message being replaced.
-msgctxt "apierror-translate-rename-state-invalid"
-msgid "One of the message passed for rename should be newly added, and the other one deleted. Current states - addition: $1 and deletion: $2."
-msgstr "One of the message passed for rename should be newly added, and the other one deleted. Current states - addition: $1 and deletion: $2."
-
-#. [Wiki] {{doc-apierror}}
-msgctxt "apiwarn-translate-alreadyreviewedbyyou"
-msgid "Already marked as reviewed by you"
-msgstr "Already marked as reviewed by you"
-
-#. [Wiki] {{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - language name
-msgctxt "apiwarn-translate-language-disabled-source"
-msgid "The source language of this group is $1. Please select another language to translate into."
-msgstr "The source language of this group is $1. Please select another language to translate into."
-
-#. [Wiki] {{doc-apierror}}
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - exception message
-msgctxt "apierror-translate-operation-error"
-msgid "There was an error while processing the request. Error: $1"
-msgstr "There was an error while processing the request. Error: $1"
-
-#. [Wiki] {{doc-special|Translate}}
-#. [Wiki] It is the verb "to translate".
-#. [Wiki] {{Identical|Translate}}
-msgctxt "translate"
-msgid "Translate"
-msgstr "Translate"
-
-#. [Wiki] {{name}}
-#, optional
-msgctxt "translate-extensionname"
-msgid "Translate"
-msgstr "Translate"
-
-#. [Wiki] {{desc|name=Translate|url=https://www.mediawiki.org/wiki/Extension:Translate}}
-msgctxt "translate-desc"
-msgid "[[Special:Translate|Special page]] for translating MediaWiki and beyond"
-msgstr "[[Special:Translate|Special page]] for translating MediaWiki and beyond"
-
-#. [Wiki] Text to display on [[User:FuzzyBot]].
-msgctxt "translate-fuzzybot-desc"
-msgid "This is a special system account used by the MediaWiki [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Translate Translate extension] used to maintain translations.\nThis account is part of the MediaWiki software and it is not owned by any user."
-msgstr "This is a special system account used by the MediaWiki [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Translate Translate extension] used to maintain translations.\nThis account is part of the MediaWiki software and it is not owned by any user."
-
-#. [Wiki] Task in [[Special:Translate]] on action Export
-msgctxt "translate-taskui-export-to-file"
-msgid "Export in native format"
-msgstr "Export in native format"
-
-#. [Wiki] Task in [[Special:Translate]] on action Export
-msgctxt "translate-taskui-export-as-po"
-msgid "Export for off-line translation"
-msgstr "Export for off-line translation"
-
-#. [Wiki] A tab text used in Special pages [[Special:Translate]], [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-#. [Wiki] {{Identical|Translate}}
-msgctxt "translate-taction-translate"
-msgid "Translate"
-msgstr "Translate"
-
-#. [Wiki] A tab text used in Special pages [[Special:Translate]], [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-#. [Wiki] 
-#. [Wiki] Translate as a verb.
-#. [Wiki] {{Identical|Review}}
-msgctxt "translate-taction-proofread"
-msgid "Review"
-msgstr "Review"
-
-#. [Wiki] A tab text used in Special pages [[Special:Translate]], [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-#. [Wiki] {{Identical|Language statistics}}
-msgctxt "translate-taction-lstats"
-msgid "Language statistics"
-msgstr "Language statistics"
-
-#. [Wiki] A tab text used in Special pages [[Special:Translate]], [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-msgctxt "translate-taction-mstats"
-msgid "Message group statistics"
-msgstr "Message group statistics"
-
-#. [Wiki] A tab text used in Special pages [[Special:Translate]], [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-#. [Wiki] {{Identical|Export}}
-msgctxt "translate-taction-export"
-msgid "Export"
-msgstr "Export"
-
-#. [Wiki] Shown instead of the radio buttons for tasks when all tasks related to this action has been disabled.
-msgctxt "translate-taction-disabled"
-msgid "This action is disabled on this wiki."
-msgstr "This action is disabled on this wiki."
-
-#. [Wiki] Shown when someone requests a language that doesn't exist. Examples:
-#. [Wiki] * Special:LanguageStats, under the selectors [{{FULLURL:Special:LanguageStats|language=ugagaga}}]
-#. [Wiki] * Special:Translate until 2013, next to the language dropdown [//translatewiki.net/w/i.php?title=Special:Translate&tux=0&group=out-blockly-0-all&language=ugagaga]
-msgctxt "translate-page-no-such-language"
-msgid "Specified language was invalid."
-msgstr "Specified language was invalid."
-
-#. [Wiki] Shown when someone requests a group that doesn't exists. [{{FULLURL:Special:Translate|group=invalidgroup}} Example].
-msgctxt "translate-page-no-such-group"
-msgid "Specified group was invalid."
-msgstr "Specified group was invalid."
-
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - reason that the language has been excluded
-msgctxt "translate-page-disabled"
-msgid "Translations to this language in this group have been disabled.\nReason:\n\n<em>$1</em>"
-msgstr "Translations to this language in this group have been disabled.\nReason:\n\n<em>$1</em>"
-
-#. [Wiki] Shown when someone requests an excluded language. [{{FULLURL:Special:Translate|group=mediawiki&language=zh-tw}} Example].
-msgctxt "translate-language-disabled"
-msgid "Translation to this language is disabled."
-msgstr "Translation to this language is disabled."
-
-#. [Wiki] {{Identical|Settings}}
-msgctxt "translate-page-settings-legend"
-msgid "Settings"
-msgstr "Settings"
-
-#. [Wiki] {{Identical|Group}}
-msgctxt "translate-page-group"
-msgid "Group"
-msgstr "Group"
-
-#. [Wiki] {{Identical|Language}}
-msgctxt "translate-page-language"
-msgid "Language"
-msgstr "Language"
-
-#. [Wiki] {{Identical|Limit}}
-msgctxt "translate-page-limit"
-msgid "Limit"
-msgstr "Limit"
-
-#. [Wiki] Used as option for select box in [[Special:Translate]].
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - number of messages, can be used for GENDER
-msgctxt "translate-page-limit-option"
-msgid "$1 {{PLURAL:$1|message|messages}} per page"
-msgstr "$1 {{PLURAL:$1|message|messages}} per page"
-
-#. [Wiki] Button text in [[Special:Translate]] on action Translate, action Review and action Export.
-#. [Wiki] 
-#. [Wiki] {{Identical|Fetch}}
-msgctxt "translate-submit"
-msgid "Fetch"
-msgstr "Fetch"
-
-#. [Wiki] {{Identical|Navigation}}
-msgctxt "translate-page-navigation-legend"
-msgid "Navigation"
-msgstr "Navigation"
-
-#. [Wiki] Information in the page navigation box of the translate special page, [{{canonicalurl:Special:Translate|taction=translate&limit=100&language=en-gb&group=ext-translate-core}} for example].
-#. [Wiki] *$1 is the number of the first message displayed on the page
-#. [Wiki] *$2 is the number of the last message displayed on the page
-#. [Wiki] *$3 is the total number of messages fetched by the program
-msgctxt "translate-page-showing"
-msgid "Showing messages from $1 to $2 of $3."
-msgstr "Showing messages from $1 to $2 of $3."
-
-#. [Wiki] Information in the page navigation box of the translate special page, [{{canonicalurl:Special:Translate|taction=translate&limit=5000&language=en-gb&group=ext-translate-core}} for example].
-#. [Wiki] *$1 is the total number of messages fetched by the program
-msgctxt "translate-page-showing-all"
-msgid "Showing $1 {{PLURAL:$1|message|messages}}."
-msgstr "Showing $1 {{PLURAL:$1|message|messages}}."
-
-#. [Wiki] Used in query result page.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Translate-page-showing-all}}
-#. [Wiki] * {{msg-mw|Translate-page-showing}}
-#. [Wiki] * {{msg-mw|Translate-page-paging-links}}, {{msg-mw|Translate-prev}} and {{msg-mw|Translate-next}}
-msgctxt "translate-page-showing-none"
-msgid "No messages to show."
-msgstr "No messages to show."
-
-#. [Wiki] {{optional}}
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - a link which points to the previous page
-#. [Wiki] * $2 - a link which points to the next page
-#, optional
-msgctxt "translate-page-paging-links"
-msgid "[ $1 ] [ $2 ]"
-msgstr "[ $1 ] [ $2 ]"
-
-#. [Wiki] {{Identical|Next page}}
-msgctxt "translate-next"
-msgid "Next page"
-msgstr "Next page"
-
-#. [Wiki] {{Identical|Previous page}}
-msgctxt "translate-prev"
-msgid "Previous page"
-msgstr "Previous page"
-
-#. [Wiki] Used as a legend (heading for a fieldset) in the legacy Special:Translate interface.
-msgctxt "translate-page-description-legend"
-msgid "Information about the group"
-msgstr "Information about the group"
-
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - a link with {{msg-mw|translate-page-description-hasoptional-open}} as the text
-msgctxt "translate-page-description-hasoptional"
-msgid "This message group contains optional messages.\nOptional messages should only be translated when your language has special requirements\nlike not using spaces or transliterating proper names. $1"
-msgstr "This message group contains optional messages.\nOptional messages should only be translated when your language has special requirements\nlike not using spaces or transliterating proper names. $1"
-
-#. [Wiki] Link text for message {{msg-mw|translate-page-description-hasoptional}}
-#. [Wiki] {{Identical|Show optional message}}
-msgctxt "translate-page-description-hasoptional-open"
-msgid "Show optional messages."
-msgstr "Show optional messages."
-
-#. [Wiki] {{Identical|Edit}}
-msgctxt "translate-page-edit"
-msgid "edit"
-msgstr "edit"
-
-#. [Wiki] {{Identical|Optional}}
-msgctxt "translate-optional"
-msgid "(optional)"
-msgstr "(optional)"
-
-#. [Wiki] {{Identical|Ignore}}
-msgctxt "translate-ignored"
-msgid "(ignored)"
-msgstr "(ignored)"
-
-#. [Wiki] Used as a tooltip for edit links in lists with translatable messages. Parameters:
-#. [Wiki] * $1 is the name of the page to be edited.
-#. [Wiki] {{Identical|Edit}}
-msgctxt "translate-edit-title"
-msgid "Edit \"$1\""
-msgstr "Edit \"$1\""
-
-#. [Wiki] Heading of infobox containing original message to be translated.
-msgctxt "translate-edit-definition"
-msgid "Message definition"
-msgstr "Message definition"
-
-#. [Wiki] This appears in the parentheses after {{msg-mw|Translate-edit-information}}. It links to the information page in edit mode.
-#. [Wiki] {{Identical|Contribute}}
-msgctxt "translate-edit-contribute"
-msgid "contribute"
-msgstr "contribute"
-
-#. [Wiki] Message is used as a hint to translators that documentation for a message without documentation is needed.
-msgctxt "translate-edit-no-information"
-msgid "<em>This message has no documentation.\nIf you know where or how this message is used, you can help other translators by adding documentation to this message.</em>"
-msgstr "<em>This message has no documentation.\nIf you know where or how this message is used, you can help other translators by adding documentation to this message.</em>"
-
-#. [Wiki] Caption for box which contains information about the message. $1 is {{msg-mw|translate-edit-contribute}}.
-msgctxt "translate-edit-information"
-msgid "Information about message ($1)"
-msgstr "Information about message ($1)"
-
-#. [Wiki] Title of the warnings box when editing a message.
-#. [Wiki] This box lists the problems found in the translation.
-msgctxt "translate-edit-warnings"
-msgid "Warnings about incomplete translations"
-msgstr "Warnings about incomplete translations"
-
-#. [Wiki] Used as tooltip for the message {{msg-mw|translate-edit-tmmatch}} in the translation suggestions by the server.
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - translation source text
-msgctxt "translate-edit-tmmatch-source"
-msgid "Translation source text: $1"
-msgstr "Translation source text: $1"
-
-#. [Wiki] This message is displayed in the translation interface when there is suggestions from translation memory.
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - number between 1 and 100
-#. [Wiki] {{Identical|Match}}
-msgctxt "translate-edit-tmmatch"
-msgid "$1% match"
-msgstr "$1% match"
-
-#. [Wiki] Used as a tooltip for the "down arrow" to insert translation suggestions in the translation edit page.
-msgctxt "translate-use-suggestion"
-msgid "Replace current translation with this suggestion."
-msgstr "Replace current translation with this suggestion."
-
-#. [Wiki] Followed by link text {{msg-mw|Translate-edit-askpermission}}.
-msgctxt "translate-edit-nopermission"
-msgid "You need translation rights to translate messages."
-msgstr "You need translation rights to translate messages."
-
-#. [Wiki] Used as link text.
-#. [Wiki] 
-#. [Wiki] Preceded by {{msg-mw|Translate-edit-nopermission}}.
-msgctxt "translate-edit-askpermission"
-msgid "Get permission"
-msgstr "Get permission"
-
-#. [Wiki] Title of [[Special:ExportTranslations]]
-msgctxt "exporttranslations"
-msgid "Export translations"
-msgstr "Export translations"
-
-#. [Wiki] Label of form field on [[Special:ExportTranslations]].
-#. [Wiki] {{Identical|Format}}
-msgctxt "translate-export-form-format"
-msgid "Format"
-msgstr "Format"
-
-#. [Wiki] Validation error shown on [[Special:ExportTranslations]].
-msgctxt "translate-export-invalid-format"
-msgid "Please specify a valid format."
-msgstr "Please specify a valid format."
-
-#. [Wiki] Validation error shown on [[Special:ExportTranslations]]
-msgctxt "translate-export-not-supported"
-msgid "Translation export is not supported."
-msgstr "Translation export is not supported."
-
-#. [Wiki] Validation error shown on [[Special:ExportTranslations]]
-msgctxt "translate-export-format-notsupported"
-msgid "The specified export format is not supported by the message group."
-msgstr "The specified export format is not supported by the message group."
-
-#. [Wiki] Validation error shown on [[Special:ExportTranslations]]
-msgctxt "translate-export-group-too-large"
-msgid "The chosen message group is too large. Choose a message group that has fewer than $1 {{PLURAL:$1|message|messages}} or contact translation admin for advice."
-msgstr "The chosen message group is too large. Choose a message group that has fewer than $1 {{PLURAL:$1|message|messages}} or contact translation admin for advice."
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] * $1 - parameters
-#. [Wiki] * $2 - number of parameters
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-parameters"
-msgid "Following {{PLURAL:$2|parameter is|parameters are}} not used:\n<strong>$1</strong>"
-msgstr "Following {{PLURAL:$2|parameter is|parameters are}} not used:\n<strong>$1</strong>"
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] * $1 - parameters
-#. [Wiki] * $2 - number of parameters
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-parameters-unknown"
-msgid "Following {{PLURAL:$2|parameter is|parameters are}} unknown:\n<strong>$1</strong>"
-msgstr "Following {{PLURAL:$2|parameter is|parameters are}} unknown:\n<strong>$1</strong>"
-
-#. [Wiki] This translation notice is displayed if the number of opening brackets ("[", "{", and "(") is different from the number of closing brackets ("]", "}", and ")").
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - a list of the unbalanced brackets, for example "<strong>[]: 1</strong>" which means that there is one missing closing square brackets
-#. [Wiki] * $2 - the number of types of parentheses that are unbalanced
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-balance"
-msgid "There is an uneven amount of {{PLURAL:$2|parenthesis|parentheses}}:\n<strong><nowiki>$1</nowiki></strong>"
-msgstr "There is an uneven amount of {{PLURAL:$2|parenthesis|parentheses}}:\n<strong><nowiki>$1</nowiki></strong>"
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - links
-#. [Wiki] * $2 - number of links
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-links"
-msgid "Following {{PLURAL:$2|link is|$2 links are}} problematic:\n<strong><nowiki>$1</nowiki></strong>"
-msgstr "Following {{PLURAL:$2|link is|$2 links are}} problematic:\n<strong><nowiki>$1</nowiki></strong>"
-
-#. [Wiki] {{doc-important|Do not translate <code><nowiki><strong><nowiki>$1</nowiki>&lt;nowiki><nowiki></strong></nowiki></code>.}}
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - links
-#. [Wiki] * $2 - number of links
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-links-missing"
-msgid "Following {{PLURAL:$2|link is|$2 links are}} missing:\n<strong><nowiki>$1</nowiki></strong>"
-msgstr "Following {{PLURAL:$2|link is|$2 links are}} missing:\n<strong><nowiki>$1</nowiki></strong>"
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-plural"
-msgid "Definition uses <nowiki>{{PLURAL:}}</nowiki> but translation does not."
-msgstr "Definition uses <nowiki>{{PLURAL:}}</nowiki> but translation does not."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - number of forms provided
-#. [Wiki] * $2 - number of forms MediaWiki supports for the language in question
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-plural-forms"
-msgid "<nowiki>{{PLURAL:}}</nowiki> was given {{PLURAL:$1|one form|$1 forms}} but {{PLURAL:$2|only one form is|$2 forms are}} supported (excluding 0= and 1= forms)."
-msgstr "<nowiki>{{PLURAL:}}</nowiki> was given {{PLURAL:$1|one form|$1 forms}} but {{PLURAL:$2|only one form is|$2 forms are}} supported (excluding 0= and 1= forms)."
-
-#. [Wiki] {{doc-important|In <code><nowiki>{{PLURAL:$1|sheep|sheep}}</nowiki></code>, the singular and plural forms should be identical.}}
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] 
-#. [Wiki] <code>$1</code> is not a parameter; appears as is.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-plural-dupe"
-msgid "<nowiki>{{PLURAL:}}</nowiki> has duplicate forms at the end. <nowiki>{{PLURAL:$1|sheep|sheep}}</nowiki> should be written as <nowiki>{{PLURAL:$1|sheep}}</nowiki>."
-msgstr "<nowiki>{{PLURAL:}}</nowiki> has duplicate forms at the end. <nowiki>{{PLURAL:$1|sheep|sheep}}</nowiki> should be written as <nowiki>{{PLURAL:$1|sheep}}</nowiki>."
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-gettext-plural-missing"
-msgid "This translation must have <nowiki></nowiki>."
-msgid_plural "This translation must have <nowiki></nowiki>."
-msgstr[0] "This translation must have <nowiki></nowiki>."
-msgstr[1] "This translation must have <nowiki></nowiki>."
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-gettext-plural-unsupported"
-msgid "This message does not support <nowiki></nowiki>."
-msgid_plural "This message does not support <nowiki></nowiki>."
-msgstr[0] "This message does not support <nowiki></nowiki>."
-msgstr[1] "This message does not support <nowiki></nowiki>."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - number
-#. [Wiki] * $2 - number
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-gettext-plural-count"
-msgid "<nowiki></nowiki> accepts exactly $1 {{PLURAL:$1|plural form|plural forms}}. Currently $2 {{PLURAL:$2|plural form is|plural forms are}} given."
-msgid_plural "<nowiki></nowiki> accepts exactly $1 {{PLURAL:$1|plural form|plural forms}}. Currently $2 {{PLURAL:$2|plural form is|plural forms are}} given."
-msgstr[0] "<nowiki></nowiki> accepts exactly $1 {{PLURAL:$1|plural form|plural forms}}. Currently $2 {{PLURAL:$2|plural form is|plural forms are}} given."
-msgstr[1] "<nowiki></nowiki> accepts exactly $1 {{PLURAL:$1|plural form|plural forms}}. Currently $2 {{PLURAL:$2|plural form is|plural forms are}} given."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - variable name
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-smartformat-plural-missing"
-msgid "This translation must have plural on variable $1."
-msgstr "This translation must have plural on variable $1."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - the invalid variable name
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-smartformat-plural-unsupported"
-msgid "This message does not support plural on variable $1."
-msgstr "This message does not support plural on variable $1."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - number
-#. [Wiki] * $2 - number
-#. [Wiki] * $3 the bad plural mark-up
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-smartformat-plural-count"
-msgid "Incorrect number of plural forms in <strong>$3</strong>. It must have $1 {{PLURAL:$1|plural form|plural forms}}. Currently $2 {{PLURAL:$2|plural form is|plural forms are}} given."
-msgstr "Incorrect number of plural forms in <strong>$3</strong>. It must have $1 {{PLURAL:$1|plural form|plural forms}}. Currently $2 {{PLURAL:$2|plural form is|plural forms are}} given."
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-unicode-plural-missing"
-msgid "This translation must have <nowiki>{{PLURAL|}}</nowiki>."
-msgstr "This translation must have <nowiki>{{PLURAL|}}</nowiki>."
-
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-unicode-plural-unsupported"
-msgid "This message does not support <nowiki>{{PLURAL|}}</nowiki>."
-msgstr "This message does not support <nowiki>{{PLURAL|}}</nowiki>."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - Example: <nowiki>{{PLURAl|one=…|…|two=…}}</nowiki>
-#. [Wiki] * $2 - Example: <nowiki>{{PLURAl|one=…|two=…|…}}</nowiki>
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-unicode-plural-invalid"
-msgid "Plural forms should be defined as $1. This translation contains $2."
-msgstr "Plural forms should be defined as $1. This translation contains $2."
-
-#. [Wiki] A notice when editing a message.
-#. [Wiki] 
-#. [Wiki] This notice indicates that the namespace in the translation does not match the namespace appearing in the message definition (original English message).
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-pagename"
-msgid "Namespace changed from the definition"
-msgstr "Namespace changed from the definition"
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - any one of the following messages:
-#. [Wiki] **{{msg-mw|Translate-checks-parametersnotequal}}
-#. [Wiki] ** {{msg-mw|Translate-checks-malformed}}
-#. [Wiki] ** "<samp><nowiki>$traItems[1] !== $defItems[1]</nowiki></samp>" (hard-coded)
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-format"
-msgid "This translation does not follow the definition or has invalid syntax: $1"
-msgstr "This translation does not follow the definition or has invalid syntax: $1"
-
-#. [Wiki] Notice message shown when invalid escape characters are present in the translation.
-#. [Wiki] * $1 - invalid escape characters, comma separated.
-#. [Wiki] * $2 = number of invalid escape characters.
-#. [Wiki] * $3 - list of allowed escape characters.
-#. [Wiki] * $4 - number of allowed escape characters.
-msgctxt "translate-checks-escape"
-msgid "The following escape {{PLURAL:$2|character|characters}} may be accidental: <strong>$1</strong>. {{PLURAL:$4|A valid escape character is|Valid escape characters include:}} $3."
-msgstr "The following escape {{PLURAL:$2|character|characters}} may be accidental: <strong>$1</strong>. {{PLURAL:$4|A valid escape character is|Valid escape characters include:}} $3."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - the number of parameters used in the source message
-#. [Wiki] * $2 - the number of parameters used in the translated message
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-parametersnotequal"
-msgid "Parameter count is {{PLURAL:$1|$1}}; should be {{PLURAL:$2|$2}}."
-msgstr "Parameter count is {{PLURAL:$1|$1}}; should be {{PLURAL:$2|$2}}."
-
-#. [Wiki] Notice message from automated syntax check for translators. Parameters:
-#. [Wiki] * $1 - malformed time. (Valid time is in "12:35" format.)
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-malformed"
-msgid "<nowiki>$1</nowiki> is malformed."
-msgstr "<nowiki>$1</nowiki> is malformed."
-
-#. [Wiki] Unused at this time.
-#. [Wiki] 
-#. [Wiki] Notice message from automated syntax check for translators.
-#. [Wiki] 
-#. [Wiki] <code>$1</code> and <code>$2</code> are not parameters.
-#. [Wiki] {{Related|Translate-checks}}
-msgctxt "translate-checks-fudforum-syntax"
-msgid "Use <nowiki>$1</nowiki> instead of <nowiki>$2</nowiki> in this project."
-msgstr "Use <nowiki>$1</nowiki> instead of <nowiki>$2</nowiki> in this project."
-
-#. [Wiki] Notice message shown when newline characters are missing from the beginning of a translation. Parameters:
-#. [Wiki] * $1 - number of missing characters.
-msgctxt "translate-checks-newline-missing-start"
-msgid "There {{PLURAL:$1|is|are}} $1 missing newline {{PLURAL:$1|character|characters}} at the beginning of the translation."
-msgstr "There {{PLURAL:$1|is|are}} $1 missing newline {{PLURAL:$1|character|characters}} at the beginning of the translation."
-
-#. [Wiki] Notice message shown when newline characters are missing from the end of a translation. Parameters:
-#. [Wiki] * $1 - number of missing characters.
-msgctxt "translate-checks-newline-missing-end"
-msgid "There {{PLURAL:$1|is|are}} $1 missing newline {{PLURAL:$1|character|characters}} at the end of the translation."
-msgstr "There {{PLURAL:$1|is|are}} $1 missing newline {{PLURAL:$1|character|characters}} at the end of the translation."
-
-#. [Wiki] Notice message shown when there are extra newline characters are at the start of a translation. Parameters:
-#. [Wiki] * $1 - number of extra characters.
-msgctxt "translate-checks-newline-extra-start"
-msgid "There {{PLURAL:$1|is|are}} $1 extra newline {{PLURAL:$1|character|characters}} at the beginning of the translation."
-msgstr "There {{PLURAL:$1|is|are}} $1 extra newline {{PLURAL:$1|character|characters}} at the beginning of the translation."
-
-#. [Wiki] Notice message shown when there are extra newline characters are at the end of a translation. Parameters:
-#. [Wiki] * $1 - number of extra characters.
-msgctxt "translate-checks-newline-extra-end"
-msgid "There {{PLURAL:$1|is|are}} $1 extra newline {{PLURAL:$1|character|characters}} at the end of the translation."
-msgstr "There {{PLURAL:$1|is|are}} $1 extra newline {{PLURAL:$1|character|characters}} at the end of the translation."
-
-#. [Wiki] Notice message shown when the translation is not present in the set of permitted values. Parameters:
-#. [Wiki] * $1 - set of permitted values.
-msgctxt "translate-checks-value-not-present"
-msgid "The translation must be equal to {{PLURAL:$1|1=|one of the following values:}} $1."
-msgstr "The translation must be equal to {{PLURAL:$1|1=|one of the following values:}} $1."
-
-#. [Wiki] Notice message shown when the translation contains content that should not be used. Parameters:
-#. [Wiki] * $1 - content that should not be used
-#. [Wiki] * $2 - content that should be used instead.
-msgctxt "translate-checks-replacement"
-msgid "Use $2 instead of $1."
-msgstr "Use $2 instead of $1."
-
-#. [Wiki] Used in [[Special:Preferences]] under the {{msg-mw|prefs-editing}} tab.
-#. [Wiki] {{Identical|Assistant language}}
-msgctxt "translate-pref-editassistlang"
-msgid "Assistant languages:"
-msgstr "Assistant languages:"
-
-#. [Wiki] Caption of a section at [[Special:Preferences#mw-prefsection-editing|Special:Preferences]] in the tab "{{int:prefs-editing}}"
-msgctxt "prefs-translate"
-msgid "Translation options"
-msgstr "Translation options"
-
-#. [Wiki] Used in [[Special:Preferences]], tab Editing.
-msgctxt "translate-pref-editassistlang-help"
-msgid "Comma separated list of language codes.\nTranslation of a message in these languages are shown when you are translating.\nThe default list of languages depends on your language."
-msgstr "Comma separated list of language codes.\nTranslation of a message in these languages are shown when you are translating.\nThe default list of languages depends on your language."
-
-#. [Wiki] Used as validation result.
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - a language code, not list of codes
-msgctxt "translate-pref-editassistlang-bad"
-msgid "Invalid language code in the list:\n<nowiki>$1</nowiki>."
-msgstr "Invalid language code in the list:\n<nowiki>$1</nowiki>."
-
-#. [Wiki] {{doc-right|translate}}
-msgctxt "right-translate"
-msgid "Edit using the translate interface"
-msgstr "Edit using the translate interface"
-
-#. [Wiki] {{doc-action|translate}}
-msgctxt "action-translate"
-msgid "edit using the translate interface"
-msgstr "edit using the translate interface"
-
-#. [Wiki] {{doc-right|translate-manage}}
-msgctxt "right-translate-manage"
-msgid "Manage message groups"
-msgstr "Manage message groups"
-
-#. [Wiki] {{doc-action|translate-manage}}
-msgctxt "action-translate-manage"
-msgid "manage message groups"
-msgstr "manage message groups"
-
-#. [Wiki] {{doc-right|translate-import}}
-msgctxt "right-translate-import"
-msgid "Import offline translations"
-msgstr "Import offline translations"
-
-#. [Wiki] {{doc-action|translate-import}}
-msgctxt "action-translate-import"
-msgid "import offline translations"
-msgstr "import offline translations"
-
-#. [Wiki] {{doc-right|translate-messagereview}}
-#. [Wiki] {{Identical|Review translation}}
-msgctxt "right-translate-messagereview"
-msgid "Review translations"
-msgstr "Review translations"
-
-#. [Wiki] {{doc-action|translate-messagereview}}
-msgctxt "action-translate-messagereview"
-msgid "review translations"
-msgstr "review translations"
-
-#. [Wiki] {{doc-right|translate-groupreview}}
-msgctxt "right-translate-groupreview"
-msgid "Change workflow state of message groups"
-msgstr "Change workflow state of message groups"
-
-#. [Wiki] {{doc-action|translate-groupreview}}
-msgctxt "action-translate-groupreview"
-msgid "change workflow state of message groups"
-msgstr "change workflow state of message groups"
-
-#. [Wiki] Title for the filter group for translations. Only available on [[Special:RecentChanges]].
-#. [Wiki] {{Identical|Translation}}
-msgctxt "translate-rcfilters-translations"
-msgid "Translations"
-msgstr "Translations"
-
-#. [Wiki] Label for the filter for showing changes to translated pages only.
-#. [Wiki] {{Identical|Translation}}
-msgctxt "translate-rcfilters-translations-only-label"
-msgid "Translations"
-msgstr "Translations"
-
-#. [Wiki] Description for the filter for showing changes to translated pages only.
-msgctxt "translate-rcfilters-translations-only-desc"
-msgid "Changes to translated pages."
-msgstr "Changes to translated pages."
-
-#. [Wiki] Label for the filter for showing changes to pages that aren't translations.
-msgctxt "translate-rcfilters-translations-filter-label"
-msgid "Not translations"
-msgstr "Not translations"
-
-#. [Wiki] Description for the filter for showing changes to pages that aren't translations.
-msgctxt "translate-rcfilters-translations-filter-desc"
-msgid "All changes that are not translations."
-msgstr "All changes that are not translations."
-
-#. [Wiki] Label for the filter for showing customizations of site messages.
-msgctxt "translate-rcfilters-translations-site-label"
-msgid "Site messages"
-msgstr "Site messages"
-
-#. [Wiki] Description for the filter for showing customizations of site messages.
-msgctxt "translate-rcfilters-translations-site-desc"
-msgid "Customizations of site messages in MediaWiki namespace."
-msgstr "Customizations of site messages in MediaWiki namespace."
-
-#. [Wiki] Name of filter in [[Special:RecentChanges]]. Gives a user the option to filter out translations, show translations only, or do nothing (default).
-msgctxt "translate-rc-translation-filter"
-msgid "Filter translations:"
-msgstr "Filter translations:"
-
-#. [Wiki] Option for filter in [[Special:RecentChanges]]. Selecting this option results in the filter not doing anything. It is the default value.
-msgctxt "translate-rc-translation-filter-no"
-msgid "Do nothing"
-msgstr "Do nothing"
-
-#. [Wiki] Option for filter in [[Special:RecentChanges]]. Selecting this option results in the filter only showing recent changes that are translations.
-msgctxt "translate-rc-translation-filter-only"
-msgid "Show translations only"
-msgstr "Show translations only"
-
-#. [Wiki] Option for filter in [[Special:RecentChanges]]. Selecting this option results in the filter not showing any recent changes that are translations.
-msgctxt "translate-rc-translation-filter-filter"
-msgid "Filter out translations"
-msgstr "Filter out translations"
-
-#. [Wiki] Selects changes to MediaWiki-messages without a language code in the [[Special:RecentChanges|recentchanges]].
-#. [Wiki] For example MediaWiki:Common.css, but not MediaWiki:Common.css/fr or other messages for specific languages.
-#. [Wiki] These messages will only affect the interface on {{SITENAME}}.
-msgctxt "translate-rc-translation-filter-site"
-msgid "Changes to site messages only"
-msgstr "Changes to site messages only"
-
-#. [Wiki] {{doc-special|TranslationStats}}
-msgctxt "translationstats"
-msgid "Translation statistics"
-msgstr "Translation statistics"
-
-#. [Wiki] This message is used in the automatically created graph. It's possible that the graph plotting software doesn't support non-Latin scripts correctly.
-#. [Wiki] 
-#. [Wiki] {{Identical|Edit}}
-msgctxt "translate-stats-edits"
-msgid "Edits"
-msgstr "Edits"
-
-#. [Wiki] This message is used in the automatically created graph. It's possible that the graph plotting software doesn't support non-Latin scripts correctly.
-#. [Wiki] {{Identical|Translator}}
-msgctxt "translate-stats-users"
-msgid "Translators"
-msgstr "Translators"
-
-#. [Wiki] This refers to statistics on the number of new users on [[Special:TranslationStats]]. It is a label on the graph of the statistics.
-#. [Wiki] {{Identical|Registration}}
-msgctxt "translate-stats-registrations"
-msgid "Registrations"
-msgstr "Registrations"
-
-#. [Wiki] {{Identical|Review}}
-msgctxt "translate-stats-reviews"
-msgid "Reviews"
-msgstr "Reviews"
-
-#. [Wiki] {{Identical|Reviewer}}
-msgctxt "translate-stats-reviewers"
-msgid "Reviewers"
-msgstr "Reviewers"
-
-#. [Wiki] Introduction to [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-intro"
-msgid "You can generate simple statistics with this form.\nAll values have upper and lower limits."
-msgstr "You can generate simple statistics with this form.\nAll values have upper and lower limits."
-
-#. [Wiki] Header on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-options"
-msgid "Graph options"
-msgstr "Graph options"
-
-#. [Wiki] Field label on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-width"
-msgid "Width in pixels:"
-msgstr "Width in pixels:"
-
-#. [Wiki] Field label on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-height"
-msgid "Height in pixels:"
-msgstr "Height in pixels:"
-
-#. [Wiki] Label in [[Special:TranslationStats]]
-msgctxt "translate-statsf-days"
-msgid "Time period in days:"
-msgstr "Time period in days:"
-
-#. [Wiki] Label in [[Special:TranslationStats]]
-#. [Wiki] {{Identical|Start date}}
-msgctxt "translate-statsf-start"
-msgid "Starting date:"
-msgstr "Starting date:"
-
-#. [Wiki] Used on [[Special:TranslationStats]].
-msgctxt "translate-statsf-scale"
-msgid "Granularity:"
-msgstr "Granularity:"
-
-#. [Wiki] Option at [[Special:TranslationStats]].
-#. [Wiki] 
-#. [Wiki] {{identical|Year}}
-msgctxt "translate-statsf-scale-years"
-msgid "Years"
-msgstr "Years"
-
-#. [Wiki] Option at [[Special:TranslationStats]].
-#. [Wiki] {{Identical|Month}}
-msgctxt "translate-statsf-scale-months"
-msgid "Months"
-msgstr "Months"
-
-#. [Wiki] Option at [[Special:TranslationStats]].
-#. [Wiki] {{Identical|Week}}
-msgctxt "translate-statsf-scale-weeks"
-msgid "Weeks"
-msgstr "Weeks"
-
-#. [Wiki] Radio button label on [[Special:TranslationStats|form]] for generating graph.
-#. [Wiki] {{Identical|Day}}
-msgctxt "translate-statsf-scale-days"
-msgid "Days"
-msgstr "Days"
-
-#. [Wiki] Radio button label on [[Special:TranslationStats|form]] for generating graph.
-#. [Wiki] {{Identical|Hour}}
-msgctxt "translate-statsf-scale-hours"
-msgid "Hours"
-msgstr "Hours"
-
-#. [Wiki] Used on [[Special:TranslationStats]].
-msgctxt "translate-statsf-count"
-msgid "Measure:"
-msgstr "Measure:"
-
-#. [Wiki] Radio button label on [[Special:TranslationStats|form]] for generating graph.
-#. [Wiki] {{Identical|Number of edits}}
-msgctxt "translate-statsf-count-edits"
-msgid "Number of edits"
-msgstr "Number of edits"
-
-#. [Wiki] Radio button label on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-count-users"
-msgid "Active translators"
-msgstr "Active translators"
-
-#. [Wiki] Option at [[Special:TranslationStats]].
-#. [Wiki] {{Identical|New user}}
-msgctxt "translate-statsf-count-registrations"
-msgid "New users"
-msgstr "New users"
-
-#. [Wiki] Radio button label on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-count-reviews"
-msgid "Translation reviews"
-msgstr "Translation reviews"
-
-#. [Wiki] Radio button label on [[Special:TranslationStats|form]] for generating graph.
-#. [Wiki] {{Identical|Reviewer}}
-msgctxt "translate-statsf-count-reviewers"
-msgid "Reviewers"
-msgstr "Reviewers"
-
-#. [Wiki] Field label on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-language"
-msgid "Comma-separated list of language codes:"
-msgstr "Comma-separated list of language codes:"
-
-#. [Wiki] Field label on [[Special:TranslationStats|form]] for generating graph.
-msgctxt "translate-statsf-group"
-msgid "Comma-separated list of group codes:"
-msgstr "Comma-separated list of group codes:"
-
-#. [Wiki] Submit button label on [[Special:TranslationStats|form]] for generating graph.
-#. [Wiki] 
-#. [Wiki] {{Identical|Preview}}
-msgctxt "translate-statsf-submit"
-msgid "Preview"
-msgstr "Preview"
-
-#. [Wiki] Used when an unknown error occurs on fetching translation statistics.
-msgctxt "translate-statsf-unknown-error"
-msgid "An unknown error has occurred."
-msgstr "An unknown error has occurred."
-
-#. [Wiki] Error message displayed when fetching of translation statistics fails.
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - error information from the API.
-msgctxt "translate-statsf-error-message"
-msgid "There was an error while loading the graph: $1"
-msgstr "There was an error while loading the graph: $1"
-
-#. [Wiki] Displayed inside the canvas element pointing to a text based alternative to the data displayed on the graph.
-msgctxt "translate-statsf-graph-alt-text-info"
-msgid "Text alternative for the translation statistics is in the data table below."
-msgstr "Text alternative for the translation statistics is in the data table below."
-
-#. [Wiki] Used as the text for the summary attribute displayed on the table which is the text alternative to the data displayed on the graph.
-msgctxt "translate-statsf-alt-text"
-msgid "This is the text alternative for the translation statistics."
-msgstr "This is the text alternative for the translation statistics."
-
-#. [Wiki] Used as aria-label for the <code><nowiki><pre></nowiki></code> tag that contains the code to embed the translation stats graph on other pages
-msgctxt "translate-statsf-embed"
-msgid "Code to embed the translation stats graph on other pages."
-msgstr "Code to embed the translation stats graph on other pages."
-
-#. [Wiki] Used as description for the message group in [[Special:Translate]].
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - the page title
-#. [Wiki] * $2 - link to the translation page <code>Special:MyLanguage/$1</code>, not the source page
-#. [Wiki] * $3 - source language name
-#. [Wiki] * $4 - source language code
-msgctxt "translate-tag-page-desc"
-msgid "Translation of the wiki page [[$2|$1]] from $3 ($4)."
-msgstr "Translation of the wiki page [[$2|$1]] from $3 ($4)."
-
-#. [Wiki] {{Identical|Otherlanguages}}
-msgctxt "translate-sidebar-alltrans"
-msgid "In other languages"
-msgstr "In other languages"
-
-#. [Wiki] {{doc-special|Translations}}
-#. [Wiki] {{Identical|All translations}}
-msgctxt "translations"
-msgid "All translations"
-msgstr "All translations"
-
-#. [Wiki] Used in [[Special:Translations]].
-msgctxt "translations-summary"
-msgid "Enter a message name below to show all available translations."
-msgstr "Enter a message name below to show all available translations."
-
-#. [Wiki] Error message used in [[Special:Translations]]. Parameters:
-#. [Wiki] * $1 - page title for the translatable message
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Translate-translations-count}} - if there are one or more translations
-msgctxt "translate-translations-no-message"
-msgid "\"$1\" is not a translatable message"
-msgstr "\"$1\" is not a translatable message"
-
-#. [Wiki] Unused at this time.
-#. [Wiki] 
-#. [Wiki] Used in [[Special:Translations]] if no translations exist.
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - Name of the language
-msgctxt "translate-translations-none"
-msgid "There are no translations for \"$1\""
-msgstr "There are no translations for \"$1\""
-
-#. [Wiki] Shown in [[Special:Translations]].
-#. [Wiki] 
-#. [Wiki] Followed by the list of translations.
-#. [Wiki] 
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - number of translations
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Translate-translations-no-message}} - if there are no translations
-msgctxt "translate-translations-count"
-msgid "Found {{PLURAL:$1|one translation|$1 translations}}."
-msgstr "Found {{PLURAL:$1|one translation|$1 translations}}."
-
-#. [Wiki] Name of fieldset in [[Special:Translations]].
-#. [Wiki] 
-#. [Wiki] {{Identical|Message}}
-msgctxt "translate-translations-fieldset-title"
-msgid "Message"
-msgstr "Message"
-
-#. [Wiki] Used in [[Special:Translations]].
-#. [Wiki] 
-#. [Wiki] {{Identical|Name}}
-msgctxt "translate-translations-messagename"
-msgid "Name:"
-msgstr "Name:"
-
-#. [Wiki] Used in [[Special:Translations]].
-#. [Wiki] {{Identical|Project}}
-msgctxt "translate-translations-project"
-msgid "Project:"
-msgstr "Project:"
-
-#. [Wiki] Shown when using <code>&#x7b;{Special:Translations}}</code>, but a parameter is required, e.g. <code>&#x7b;{Special:Translations/MediaWiki:Mainpagetext}}</code>
-msgctxt "translate-translations-including-no-param"
-msgid "Please specify a valid message key in the subpage parameter"
-msgstr "Please specify a valid message key in the subpage parameter"
-
-#. [Wiki] Shortest possible abbreviation of "history". Used on [[Special:Translations]].
-msgctxt "translate-translations-history-short"
-msgid "h"
-msgstr "h"
-
-#. [Wiki] {{doc-special|LanguageStats}}
-#. [Wiki] {{Identical|Language statistics}}
-msgctxt "languagestats"
-msgid "Language statistics"
-msgstr "Language statistics"
-
-#. [Wiki] Used in [[Special:LanguageStats]].
-msgctxt "languagestats-summary"
-msgid "This page shows translation statistics for all message groups for a language."
-msgstr "This page shows translation statistics for all message groups for a language."
-
-#. [Wiki] Used in [[Special:MessageGroupStats]]
-msgctxt "messagegroupstats-summary"
-msgid "This page shows message group statistics."
-msgstr "This page shows message group statistics."
-
-#. [Wiki] Used in [[Special:LanguageStats]]. Parameters:
-#. [Wiki] * $1 - a localised language name
-#. [Wiki] * $2 - link text {{msg-mw|Languagestats-recenttranslations}}. The link points to [[Special:Translate]] which shows recent translations of the language <code>$1</code>.
-msgctxt "languagestats-stats-for"
-msgid "Translation statistics for $1 ($2)."
-msgstr "Translation statistics for $1 ($2)."
-
-#. [Wiki] Used as link text. The link points to [[Special:Translate]] which shows recent translations.
-#. [Wiki] 
-#. [Wiki] Used as <code>$2</code> in {{msg-mw|Languagestats-stats-for}}.
-msgctxt "languagestats-recenttranslations"
-msgid "recent translations"
-msgstr "recent translations"
-
-#. [Wiki] A notice shown sometimes on [[Special:LanguageStats]].
-msgctxt "translate-langstats-incomplete"
-msgid "Some of the statistics on this page are incomplete. Please reload to get more statistics."
-msgstr "Some of the statistics on this page are incomplete. Please reload to get more statistics."
-
-#. [Wiki] {{Doc-actionlink}}
-#. [Wiki] Used in [[Special:LanguageStats]] to expand subgroups.
-#. [Wiki] {{Identical|Expand}}
-msgctxt "translate-langstats-expand"
-msgid "expand"
-msgstr "expand"
-
-#. [Wiki] {{doc-actionlink}}
-#. [Wiki] Used in [[Special:LanguageStats]] to collapse subgroups.
-#. [Wiki] {{Identical|Collapse}}
-msgctxt "translate-langstats-collapse"
-msgid "collapse"
-msgstr "collapse"
-
-#. [Wiki] {{doc-actionlink}}
-#. [Wiki] Used in [[Special:LanguageStats]] to expand all subgroups.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Translate-langstats-collapseall}}
-msgctxt "translate-langstats-expandall"
-msgid "expand all"
-msgstr "expand all"
-
-#. [Wiki] {{doc-actionlink}}
-#. [Wiki] Used in [[Special:LanguageStats]] to collapse all subgroups.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Translate-langstats-expandall}}
-msgctxt "translate-langstats-collapseall"
-msgid "collapse all"
-msgstr "collapse all"
-
-#. [Wiki] Name of fieldset in [[Special:LanguageStats]].
-#. [Wiki] 
-#. [Wiki] {{Identical|Language code}}
-msgctxt "translate-language-code"
-msgid "Language code"
-msgstr "Language code"
-
-#. [Wiki] Used in [[Special:LanguageStats]].
-#. [Wiki] 
-#. [Wiki] {{Identical|Language code}}
-msgctxt "translate-language-code-field-name"
-msgid "Language code:"
-msgstr "Language code:"
-
-#. [Wiki] Used in [[Special:LanguageStats]].
-msgctxt "translate-suppress-complete"
-msgid "Suppress completely translated message groups"
-msgstr "Suppress completely translated message groups"
-
-#. [Wiki] A filter option on [[Special:LanguageStats]].
-msgctxt "translate-ls-noempty"
-msgid "Suppress completely untranslated message groups"
-msgstr "Suppress completely untranslated message groups"
-
-#. [Wiki] Table header at [[Special:LanguageStats]].
-#. [Wiki] 
-#. [Wiki] {{Identical|Language}}
-msgctxt "translate-language"
-msgid "Language"
-msgstr "Language"
-
-#. [Wiki] Table header at [[Special:LanguageStats]].
-#. [Wiki] {{Identical|Message}}
-msgctxt "translate-total"
-msgid "Messages"
-msgstr "Messages"
-
-#. [Wiki] Column header in [[Special:LanguageStats]] for number of untranslated messages in a message group.
-#. [Wiki] {{Identical|Untranslated}}
-msgctxt "translate-untranslated"
-msgid "Untranslated"
-msgstr "Untranslated"
-
-#. [Wiki] Used as column header in [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-msgctxt "translate-percentage-complete"
-msgid "Completion"
-msgstr "Completion"
-
-#. [Wiki] Used as column header in [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-#. [Wiki] {{Identical|Outdated}}
-msgctxt "translate-percentage-fuzzy"
-msgid "Outdated"
-msgstr "Outdated"
-
-#. [Wiki] Used as column header in [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-msgctxt "translate-percentage-proofread"
-msgid "Reviewed"
-msgstr "Reviewed"
-
-#. [Wiki] Label for summary row on [[Special:LanguageStats]]
-msgctxt "translate-languagestats-overall"
-msgid "All message groups together"
-msgstr "All message groups together"
-
-#. [Wiki] Submit button text on [[Special:LanguageStats]] and [[Special:MessageGroupStats]].
-msgctxt "translate-ls-submit"
-msgid "Show statistics"
-msgstr "Show statistics"
-
-#. [Wiki] Column header in [[Special:LanguageStats]].
-#. [Wiki] {{Identical|Message group}}
-msgctxt "translate-ls-column-group"
-msgid "Message group"
-msgstr "Message group"
-
-#. [Wiki] {{doc-special|MessageGroupStats}}
-msgctxt "translate-mgs-pagename"
-msgid "Message group statistics"
-msgstr "Message group statistics"
-
-#. [Wiki] Fieldset label in [[Special:MessageGroupStats]].
-#. [Wiki] These are the preferences that can be set in the input form for displaying or refreshing the list of message groups to translate along with their respective completion statistics.
-msgctxt "translate-mgs-fieldset"
-msgid "Display preferences"
-msgstr "Display preferences"
-
-#. [Wiki] Label of drop-down box in [[Special:MessageGroupStats]].
-#. [Wiki] {{Identical|Message group}}
-msgctxt "translate-mgs-group"
-msgid "Message group:"
-msgstr "Message group:"
-
-#. [Wiki] Option in [[Special:MessageGroupStats]]
-msgctxt "translate-mgs-nocomplete"
-msgid "Do not display languages which have completed translation"
-msgstr "Do not display languages which have completed translation"
-
-#. [Wiki] Option in [[Special:MessageGroupStats]]
-msgctxt "translate-mgs-noempty"
-msgid "Do not display languages which do not have any translations"
-msgstr "Do not display languages which do not have any translations"
-
-#. [Wiki] Submit button text
-msgctxt "translate-mgs-submit"
-msgid "Show statistics"
-msgstr "Show statistics"
-
-#. [Wiki] {{Identical|Language}}
-msgctxt "translate-mgs-column-language"
-msgid "Language"
-msgstr "Language"
-
-#. [Wiki] This is used in [[Special:MessageGroupStats]]. Parameters: 
-#. [Wiki] * $1 - total number of shown languages
-msgctxt "translate-mgs-totals"
-msgid "All $1 {{PLURAL:$1|language|languages}} together"
-msgstr "All $1 {{PLURAL:$1|language|languages}} together"
-
-#. [Wiki] Used as error message. Parameters:
-#. [Wiki] * $1 - target message group name
-msgctxt "translate-mgs-invalid-group"
-msgid "The specified group $1 does not exist."
-msgstr "The specified group $1 does not exist."
-
-#. [Wiki] Error message shown on Special:LanguageStats and Special:MessageGroupStats.
-msgctxt "translate-mgs-nothing"
-msgid "Nothing to show for requested statistics."
-msgstr "Nothing to show for requested statistics."
-
-#. [Wiki] {{doc-special|SupportedLanguages}}
-#. [Wiki] {{Identical|Supported language}}
-msgctxt "supportedlanguages"
-msgid "Active languages"
-msgstr "Active languages"
-
-#. [Wiki] Header for [[Special:ActiveLanguages]] page.
-msgctxt "supportedlanguages-summary"
-msgid "This page shows a list of active languages in {{SITENAME}},\ntogether with the names of the translators working on that language.\nA translator's name appears larger, the more edits the translator has contributed.\nThe color of an underline indicates how recently a translator has been active here."
-msgstr "This page shows a list of active languages in {{SITENAME}},\ntogether with the names of the translators working on that language.\nA translator's name appears larger, the more edits the translator has contributed.\nThe color of an underline indicates how recently a translator has been active here."
-
-#. [Wiki] Used on [[Special:ActiveLanguages]]. Parameters:
-#. [Wiki] * $1 is not a single number, but a series of numbers with different background colors, serving as a legend to match each color with a number of days passed since the last contributed translation. $1 is usually "0 30 60 90 120 150 180".
-#. [Wiki] See [[Special:ActiveLanguages]] to see the final rendering.
-msgctxt "supportedlanguages-colorlegend"
-msgid "Legend for the color: Last translation $1 days ago."
-msgstr "Legend for the color: Last translation $1 days ago."
-
-#. [Wiki] {{notranslate}}
-#. [Wiki] Place any site specific message here.
-#, ignored
-msgctxt "supportedlanguages-localsummary"
-msgid "Supported languages - Summary"
-msgstr "Supported languages - Summary"
-
-#. [Wiki] {{optional}}
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - language code
-#. [Wiki] * $2 - localized language name
-#. [Wiki] * $3 - native language name
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Supportedlanguages-portallink-nocldr}}
-#, optional
-msgctxt "supportedlanguages-portallink"
-msgid "[$1] $2 - $3"
-msgstr "[$1] $2 - $3"
-
-#. [Wiki] {{optional}}
-#. [Wiki] Used if the localized language name is available. Parameters:
-#. [Wiki] * $1 - language code
-#. [Wiki] * $2 - native language name
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Supportedlanguages-portallink}}
-#, optional
-msgctxt "supportedlanguages-portallink-nocldr"
-msgid "[$1] $2"
-msgstr "[$1] $2"
-
-#. [Wiki] Error message emitted when unsupported sqlite database is detected
-msgctxt "supportedlanguages-sqlite-error"
-msgid "SQLite is not supported"
-msgstr "SQLite is not supported"
-
-#. [Wiki] Row for a language in [[Special:ActiveLanguages]], under the respective header.
-#. [Wiki] * $1 - the list of translators names
-#. [Wiki] * $2 - the number of translators listed
-#. [Wiki] * $3 - username for GENDER support when there is only one translator
-#. [Wiki] {{Identical|Translator}}
-msgctxt "supportedlanguages-translators"
-msgid "{{PLURAL:$2|{{GENDER:$3|Translator}}|Translators}}: $1"
-msgstr "{{PLURAL:$2|{{GENDER:$3|Translator}}|Translators}}: $1"
-
-#. [Wiki] Link on [[Special:ActiveLanguages]] to [[Special:RecentChanges]].
-msgctxt "supportedlanguages-recenttranslations"
-msgid "recent translations"
-msgstr "recent translations"
-
-#. [Wiki] On [[Special:ActiveLanguages]]
-#. [Wiki] *$1 is the total number of supported languages.
-msgctxt "supportedlanguages-count"
-msgid "$1 {{PLURAL:$1|language|languages}} in total."
-msgstr "$1 {{PLURAL:$1|language|languages}} in total."
-
 #. [Wiki] Used as tooltip text for username in users list, to show user's activity.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See [{{canonicalurl:Special:ActiveLanguages}}#fr example].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - username
 #. [Wiki] * $2 - number of edits the user made
@@ -2094,7 +27,7 @@ msgid "$1: $2 {{PLURAL:$2|edit|edits}} - last edit $3 {{PLURAL:$3|day|days}} ago
 msgstr "$1: $2 {{PLURAL:$2|edit|edits}} - last edit $3 {{PLURAL:$3|day|days}} ago"
 
 #. [Wiki] Notice shown in [[Special:ActiveLanguages]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] *$1 is formatted time, such as '5 minutes'
 msgctxt "translate-supportedlanguages-cached"
@@ -2205,7 +138,7 @@ msgctxt "translate-smg-rename-rename"
 msgid "Add as rename of..."
 msgstr "Add as rename of..."
 
-#. [Wiki] Title for the message rename dialog. It is followed by the key being renamed. Parameters: 
+#. [Wiki] Title for the message rename dialog. It is followed by the key being renamed. Parameters:
 #. [Wiki] * $1 - Title message text.
 msgctxt "translate-smg-rename-dialog-title"
 msgid "Select matching rename for $1"
@@ -2345,7 +278,7 @@ msgid "Import"
 msgstr "Import"
 
 #. [Wiki] Used in the group management interface. {{doc-screenshot|Manage-5.png|twn}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] fuzzy = mark translations for review/update.
 msgctxt "translate-manage-action-conflict"
 msgid "Import and fuzzy"
@@ -2358,21 +291,21 @@ msgid "Ignore"
 msgstr "Ignore"
 
 #. [Wiki] Used in the group management interface. {{doc-screenshot|Manage-5.png|twn}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] fuzzy = mark translations for review
 msgctxt "translate-manage-action-fuzzy"
 msgid "Import and fuzzy translations"
 msgstr "Import and fuzzy translations"
 
 #. [Wiki] Used in the group management interface. {{doc-screenshot|Manage-5.png|twn}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] fuzzy = mark translations for review
 msgctxt "translate-manage-action-rename-fuzzy"
 msgid "Rename and fuzzy translations"
 msgstr "Rename and fuzzy translations"
 
 #. [Wiki] Used in the group management interface. {{doc-screenshot|Manage-5.png|twn}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] rename = modify the message key
 msgctxt "translate-manage-action-rename"
 msgid "Rename"
@@ -2562,7 +495,7 @@ msgid "Count"
 msgstr "Count"
 
 #. [Wiki] Used in summary wiki tables for localisation statistics as a row description for the row that contains summarised data for the table. See bottom table on [[Project:MediaWiki localisation in the 50 most spoken languages|example]]
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] {{Identical|Total}}
 msgctxt "translate-gs-total"
 msgid "Total"
@@ -2677,7 +610,7 @@ msgid "Setting..."
 msgstr "Setting..."
 
 #. [Wiki] This is an edit summary for the automatic creation of a workflow state page.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - state
 msgctxt "translate-workflow-autocreated-summary"
@@ -2780,7 +713,7 @@ msgid "Translated"
 msgstr "Translated"
 
 #. [Wiki] Tab in [[Special:Translate]] new ui to select which messages to show.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] "Unreviewed" stands for "(messages which) have not been reviewed".
 #. [Wiki] {{Identical|Unreviewed}}
 msgctxt "tux-tab-unproofread"
@@ -2956,7 +889,7 @@ msgstr "used $1 {{PLURAL:$1|time|times}}"
 
 #. [Wiki] {{doc-actionlink}}
 #. [Wiki] Link text for expanding long message documentation.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-editor-message-desc-less}}
 #. [Wiki] {{Identical|View more}}
@@ -2966,7 +899,7 @@ msgstr "View more"
 
 #. [Wiki] {{doc-actionlink}}
 #. [Wiki] Link text for collapsing long message documentation.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-editor-message-desc-more}}
 msgctxt "tux-editor-message-desc-less"
@@ -2981,7 +914,7 @@ msgstr "Hide translated"
 
 #. [Wiki] Label for the button that appears at the footer of the translation editor.
 #. [Wiki] Pressing the button goes to the review mode.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Translate as a verb.
 #. [Wiki] {{Identical|Review}}
 msgctxt "tux-editor-proofreading-mode"
@@ -2997,7 +930,7 @@ msgstr "List"
 
 #. [Wiki] A label for a button that appears at the bottom of the translation editor in review mode.
 #. [Wiki] Pressing the button hides the user's own translations from the list.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-editor-proofreading-show-own-translations}}
 msgctxt "tux-editor-proofreading-hide-own-translations"
@@ -3006,7 +939,7 @@ msgstr "Hide your translations"
 
 #. [Wiki] A label for a button that appears at the bottom of the translation editor in review mode.
 #. [Wiki] Pressing the button shows the user's own translations in the list.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-editor-proofreading-hide-own-translations}}
 msgctxt "tux-editor-proofreading-show-own-translations"
@@ -3021,7 +954,7 @@ msgstr "Mark as reviewed"
 
 #. [Wiki] Used as a label that appears near the translation button in review mode.
 #. [Wiki] Pressing the button enters translation mode.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] The message {{msg-mw|tux-proofread-action-tooltip}} is used as a tooltip for the button near it.
 #. [Wiki] {{Identical|Edit}}
 msgctxt "tux-proofread-edit-label"
@@ -3036,52 +969,13 @@ msgid "Page"
 msgstr "Page"
 
 #. [Wiki] Used as notice message.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] This message is followed by the link which is labeled {{msg-mw|tux-editor-outdated-notice-diff-link}}.
 msgctxt "tux-editor-outdated-notice"
 msgid "This translation may need to be updated."
 msgstr "This translation may need to be updated."
 
-#. [Wiki] Used as link text.
-#. [Wiki] 
-#. [Wiki] This message follows the notice message {{msg-mw|tux-editor-outdated-notice}}.
-msgctxt "tux-editor-outdated-notice-diff-link"
-msgid "Show differences"
-msgstr "Show differences"
 
-#. [Wiki] A placeholder that appears in the message documentation editor.
-#. [Wiki] {{Identical|Message documentation}}
-msgctxt "tux-editor-doc-editor-placeholder"
-msgid "Message documentation"
-msgstr "Message documentation"
-
-#. [Wiki] A button that saves the documentation string.
-msgctxt "tux-editor-doc-editor-save"
-msgid "Publish documentation"
-msgstr "Publish documentation"
-
-#. [Wiki] A Cancel button that doesn't save the documentation string.
-#. [Wiki] {{Identical|Cancel}}
-msgctxt "tux-editor-doc-editor-cancel"
-msgid "Cancel"
-msgstr "Cancel"
-
-#. [Wiki] Text showing number of messages to be loaded in translation message table
-#. [Wiki] * $1 - number of messages
-msgctxt "tux-messagetable-more-messages"
-msgid "$1 more {{PLURAL:$1|message|messages}}"
-msgstr "$1 more {{PLURAL:$1|message|messages}}"
-
-#. [Wiki] A progress text saying messages are being loaded
-#. [Wiki] * $1 - number of messages
-msgctxt "tux-messagetable-loading-messages"
-msgid "Loading {{PLURAL:$1|message|messages}}..."
-msgstr "Loading {{PLURAL:$1|message|messages}}..."
-
-#. [Wiki] Placeholder text for the message table filter search box. "Filter" is an imperative verb, so the message means "Filter the list", and not "List of filters".
-msgctxt "tux-message-filter-placeholder"
-msgid "Filter list"
-msgstr "Filter list"
 
 #. [Wiki] Search result for filtering the message table
 #. [Wiki] * $1 - number of results
@@ -3102,7 +996,7 @@ msgid "Optional messages"
 msgstr "Optional messages"
 
 #. [Wiki] A small notification that appears in a review box, saying that the message was translated by the current user.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Translate-messagereview-reviewswithyou}}
 msgctxt "tux-proofread-translated-by-self"
@@ -3158,7 +1052,7 @@ msgid "Show optional messages"
 msgstr "Show optional messages"
 
 #. [Wiki] {{Tuxspec|7}} A heading displayed when there are no outdated messages.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-tab-outdated}}
 msgctxt "tux-empty-no-outdated-messages"
@@ -3166,7 +1060,7 @@ msgid "No outdated messages"
 msgstr "No outdated messages"
 
 #. [Wiki] {{Tuxspec|7}} A heading displayed when there are no messages to review.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-empty-nothing-new-to-proofread}}
 msgctxt "tux-empty-nothing-to-proofread"
@@ -3179,99 +1073,12 @@ msgid "You can help providing new translations"
 msgstr "You can help providing new translations"
 
 #. [Wiki] {{Tuxspec|7}} A heading displayed when there no messages that were not reviewed already.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tux-empty-nothing-to-proofread}}
 msgctxt "tux-empty-nothing-new-to-proofread"
 msgid "Nothing new to review"
 msgstr "Nothing new to review"
-
-#. [Wiki] A subtitle for {{msg-mw|tux-empty-nothing-new-to-proofread}}.
-#. [Wiki] {{Tuxspec|7}} (This subtitle is in the same position as the grey one there.)
-msgctxt "tux-empty-you-can-review-already-proofread"
-msgid "You can review translations already reviewed by others."
-msgstr "You can review translations already reviewed by others."
-
-#. [Wiki] {{Tuxspec|7}} This is a heading.
-#. [Wiki] {{Identical|Nothing to translate}}
-msgctxt "tux-empty-list-other"
-msgid "Nothing to translate"
-msgstr "Nothing to translate"
-
-#. [Wiki] {{Tuxspec|7}} This is a secondary guide text.
-msgctxt "tux-empty-list-other-guide"
-msgid "You can help review existing translations"
-msgstr "You can help review existing translations"
-
-#. [Wiki] {{Tuxspec|7}} This is an action button.
-#. [Wiki] {{Identical|Review translation}}
-msgctxt "tux-empty-list-other-action"
-msgid "Review translations"
-msgstr "Review translations"
-
-#. [Wiki] {{Tuxspec|7}} This is a link to change message filter.
-#. [Wiki] {{Identical|Show all messages}}
-msgctxt "tux-empty-list-other-link"
-msgid "Show all messages"
-msgstr "Show all messages"
-
-#. [Wiki] Tooltip for close icon of translate editor.
-#. [Wiki] {{Identical|Close}}
-msgctxt "tux-editor-close-tooltip"
-msgid "Close"
-msgstr "Close"
-
-#. [Wiki] Tooltip for an icon (rectangle with an arrow) in the new translation editor which increases size of the main text area by closing the translation aids area on the screen's side.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Tux-editor-collapse-tooltip}}
-#. [Wiki] {{Identical|Expand}}
-msgctxt "tux-editor-expand-tooltip"
-msgid "Expand"
-msgstr "Expand"
-
-#. [Wiki] Tooltip for an icon (rectangle with an arrow) in the new translation editor which reduces size of the main text area to uncover the translation aids area on the screen's side.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Tux-editor-expand-tooltip}}
-#. [Wiki] {{Identical|Collapse}}
-msgctxt "tux-editor-collapse-tooltip"
-msgid "Collapse"
-msgstr "Collapse"
-
-#. [Wiki] A link to the message's edit page. An item in a menu that appears when clicking on the message title.
-msgctxt "tux-editor-message-tools-show-editor"
-msgid "Show in wiki editor"
-msgstr "Show in wiki editor"
-
-#. [Wiki] A link to the message history. An item in a menu that appears when clicking on the message title.
-#. [Wiki] {{Identical|History}}
-msgctxt "tux-editor-message-tools-history"
-msgid "History"
-msgstr "History"
-
-#. [Wiki] A link to delete the message. An item in a menu that appears when clicking on the message title.
-#. [Wiki] {{Identical|Delete}}
-msgctxt "tux-editor-message-tools-delete"
-msgid "Delete"
-msgstr "Delete"
-
-#. [Wiki] A link to translations of a message to all languages. An item in a menu that appears when clicking on message title.
-#. [Wiki] {{Identical|All translations}}
-msgctxt "tux-editor-message-tools-translations"
-msgid "All translations"
-msgstr "All translations"
-
-#. [Wiki] A direct link to the translation editor showing this translation. An item in a menu that appears when clicking on message title
-msgctxt "tux-editor-message-tools-linktothis"
-msgid "Link to this message"
-msgstr "Link to this message"
-
-#. [Wiki] Loading message while translation editor is being prepared with helper information.
-#. [Wiki] {{Identical|Loading}}
-msgctxt "tux-editor-loading"
-msgid "Loading..."
-msgstr "Loading..."
 
 #. [Wiki] Error message.
 #. [Wiki] * $1 - additional information
@@ -3296,7 +1103,7 @@ msgid "$1% translated, $2% reviewed"
 msgstr "$1% translated, $2% reviewed"
 
 #. [Wiki] Descriptive text to show for the stats bar for message groups on mouse over.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - percentage of messages translated (does not include outdated)
 #. [Wiki] * $2 - percentage of messages reviewed
@@ -3421,7 +1228,7 @@ msgstr "OK"
 
 #. [Wiki] [[File:Page_translation_mark_view.png|thumb|Page translation]]
 #. [Wiki] A screenshot of the translation administration page is available.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the identifier of the unit, or the string "Page display title" (special unit identifier for page title; hard-coded)
 msgctxt "tpt-section"
@@ -3430,7 +1237,7 @@ msgstr "Translation unit $1"
 
 #. [Wiki] [[File:Page_translation_mark_view.png|thumb|Page translation]]
 #. [Wiki] A screenshot of the translation administration page is available.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the identifier of the unit, or the string "Page display title" (special unit identifier for page title; hard-coded)
 msgctxt "tpt-section-new"
@@ -3438,7 +1245,7 @@ msgid "New translation unit.\nName: $1"
 msgstr "New translation unit.\nName: $1"
 
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the identifier of the unit, or the string "Page display title" (special unit identifier for page title; hard-coded)
 msgctxt "tpt-section-deleted"
@@ -3509,7 +1316,7 @@ msgid "Page $1 is not suitable for translation.\nMake sure it has <nowiki><trans
 msgstr "Page $1 is not suitable for translation.\nMake sure it has <nowiki><translate></nowiki> tags and has a valid syntax."
 
 #. [Wiki] Followed by {{msg-mw|Tpt-saveok-first}} if the page is being marked for translation for the first time and {{msg-mw|Tpt-offer-notify}} if the user is allowed to notify translators.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - page title
 #. [Wiki] * $2 - number of sections, can be used with PLURAL
@@ -3519,7 +1326,7 @@ msgid "The page [[:$1]] has been marked up for translation with $2 {{PLURAL:$2|t
 msgstr "The page [[:$1]] has been marked up for translation with $2 {{PLURAL:$2|translation unit|translation units}}.\nThe page can now be <span class=\"plainlinks\">[$3 translated]</span>."
 
 #. [Wiki] Message displayed on [[Special:PageTranslation]] after marking a page for translation the very first time.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - a URL to [[Special:PageMigration]]
 msgctxt "tpt-saveok-first"
@@ -3527,7 +1334,7 @@ msgid "You can [[Special:PageMigration|import pre-existing translation]] for thi
 msgstr "You can [[Special:PageMigration|import pre-existing translation]] for this page (if any)."
 
 #. [Wiki] Message displayed on [[Special:PageTranslation]] after marking a page for translation when the marking user also has right to notify translators.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - a URL to [[Special:NotifyTranslators]] with the marked page preselected
 msgctxt "tpt-offer-notify"
@@ -3561,9 +1368,9 @@ msgid "Could not update the page: $1"
 msgstr "Could not update the page: $1"
 
 #. [Wiki] Used as error message.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation unit ID (name)
 msgctxt "tpt-duplicate"
@@ -3571,9 +1378,9 @@ msgid "Translation unit name $1 is used more than once."
 msgstr "Translation unit name $1 is used more than once."
 
 #. [Wiki] Used as error message.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation unit ID (name)
 msgctxt "tpt-invalid"
@@ -3581,11 +1388,11 @@ msgid "Translation unit name $1 must not contain underscore or slash."
 msgstr "Translation unit name $1 must not contain underscore or slash."
 
 #. [Wiki] Used as success message for unmarking page for translation.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Translate this as "Page $1 has been unmarked for translation".
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - page title
 msgctxt "tpt-unmarked"
@@ -3619,9 +1426,9 @@ msgstr "Pages with pending changes"
 
 #. [Wiki] [[Image:Page translation admin view.png|thumb|Admin view of special page PageTranslation]]
 #. [Wiki] Preceded by the section header {{msg-mw|Tpt-new-pages-title}}.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Followed by the ordered list of pages.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the number of pages in the following list
 msgctxt "tpt-new-pages"
@@ -3630,9 +1437,9 @@ msgstr "{{PLURAL:$1|This page contains|These pages contain}} text with translati
 
 #. [Wiki] [[Image:Page translation admin view.png|thumb|Admin view of special page PageTranslation]]
 #. [Wiki] Preceded by the section header {{msg-mw|Tpt-old-pages-title}}.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Followed by the ordered list of pages.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the number of pages
 msgctxt "tpt-old-pages"
@@ -3641,9 +1448,9 @@ msgstr "The latest version of {{PLURAL:$1|this page has|these pages have}} been 
 
 #. [Wiki] [[Image:Page translation admin view.png|thumb|Admin view of special page PageTranslation]]
 #. [Wiki] Preceded by the section header {{msg-mw|Tpt-other-pages-title}}.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Followed by the ordered list of pages.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the number of pages in the following list
 msgctxt "tpt-other-pages"
@@ -3652,9 +1459,9 @@ msgstr "{{PLURAL:$1|An old version of this page is|Older versions of these pages
 
 #. [Wiki] [[Image:Page translation admin view.png|thumb|Admin view of special page PageTranslation]]
 #. [Wiki] Preceded by the section header {{msg-mw|Tpt-outdated-pages-title}}.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Followed by the ordered list of pages.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the number of pages in the following list
 msgctxt "tpt-outdated-pages"
@@ -3782,7 +1589,7 @@ msgid "Mark this page for translation"
 msgstr "Mark this page for translation"
 
 #. [Wiki] "has changes" is to be understood as "has been altered/edited".
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - a link which points to the diff
 #. [Wiki] * $2 - a link which points to ...
@@ -3796,7 +1603,7 @@ msgid "This page contains <span class=\"plainlinks\">[$1 changes]</span> which a
 msgstr "This page contains <span class=\"plainlinks\">[$1 changes]</span> which are not marked for translation."
 
 #. [Wiki] Header of a translation page (see definition on [[mw:Help:Extension:Translate/Glossary]]).
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - URL
 #. [Wiki] * $2 - page title
@@ -3823,16 +1630,16 @@ msgid "&#160;•&#32;"
 msgstr "&#160;•&#32;"
 
 #. [Wiki] Tooltip for a link in <code><nowiki><language /></nowiki></code> when language is included because it is a priority language, but translation does not yet exist.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] The link directly points to the translation view ([[Special:Translate]]).
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Translate this as "Start translating (the page) into this language".
 msgctxt "tpt-languages-zero"
 msgid "Start translation for this language"
 msgstr "Start translation for this language"
 
 #. [Wiki] Tooltip for a link to go to a translated version of a translatable page.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - page title (translated if present)
 #. [Wiki] * $2 - translation percentage, without decimals (supports PLURAL)
@@ -3841,7 +1648,7 @@ msgid "$1 ($2% translated)"
 msgstr "$1 ($2% translated)"
 
 #. [Wiki] Used as label for the tab.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Replaces the edit tab with translation tab for translation pages.
 #. [Wiki] {{Identical|Translate}}
 msgctxt "tpt-tab-translate"
@@ -3861,7 +1668,7 @@ msgid "This namespace is reserved for content page translations.\nThe page you a
 msgstr "This namespace is reserved for content page translations.\nThe page you are trying to edit does not seem to correspond to any page marked for translation."
 
 #. [Wiki] Error message shown to user when translating to a language which is restricted by translation admin, along with the reason for the restriction.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - reason
 #. [Wiki] See also:
@@ -3878,7 +1685,7 @@ msgid "Translation of this page to this language has been prevented by a transla
 msgstr "Translation of this page to this language has been prevented by a translation administrator."
 
 #. [Wiki] Header for error shown along with group description if the language is prevented from translation for the selected language.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameter:
 #. [Wiki] * $1 - the language to which the user asked to translate the page
 msgctxt "tpt-discouraged-language-force-header"
@@ -3886,7 +1693,7 @@ msgid "This page cannot be translated to $1."
 msgstr "This page cannot be translated to $1."
 
 #. [Wiki] Error shown along with group description if the language is prevented from translation for the selected language.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - comma-separated names of the languages to which translation is encouraged
 msgctxt "tpt-discouraged-language-force-content"
@@ -3894,7 +1701,7 @@ msgid "A translation administrator decided that this page can only be translated
 msgstr "A translation administrator decided that this page can only be translated to $1."
 
 #. [Wiki] Header for warning shown along with group description if the language is discouraged from translation for the selected language.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 the language to which the user asked to translate the page
 msgctxt "tpt-discouraged-language-header"
@@ -3902,7 +1709,7 @@ msgid "Translating to $1 is not a priority for this page."
 msgstr "Translating to $1 is not a priority for this page."
 
 #. [Wiki] Warning shown along with group description if the language is discouraged from translation for the selected language.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - comma-separated names of the languages to which translation is encouraged
 msgctxt "tpt-discouraged-language-content"
@@ -3910,14 +1717,14 @@ msgid "A translation administrator decided to focus the translation efforts on $
 msgstr "A translation administrator decided to focus the translation efforts on $1."
 
 #. [Wiki] Error shown along with group description if the language is prevented from translation for the selected language.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - (Unused) empty string
 #. [Wiki] * $2 - the language that to which the user asked to translate the page
 #. [Wiki] * $3 - the names of the translation languages
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tpt-discouraged-language}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] This message is used only in the old interface (non-TUX).
 msgctxt "tpt-discouraged-language-force"
 msgid "<strong>This page cannot be translated to $2.</strong>\n\nA translation administrator decided that this page can only be translated to $3."
@@ -4007,16 +1814,16 @@ msgid "Cancel"
 msgstr "Cancel"
 
 #. [Wiki] Message when user tries to add an invalid group.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] "group" refers to "aggregate group".
 msgctxt "tpt-invalid-group"
 msgid "Invalid group"
 msgstr "Invalid group"
 
 #. [Wiki] Error shown after an attempt to mark a page for translation, see [[mw:Help:Extension:Translate/Page translation administration]] for context.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] "Translation template" is the structure of a translation page, where the place for the translations of each section is marked with a placeholder.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation template
 #. [Wiki] See also:
@@ -4026,9 +1833,9 @@ msgid "Unbalanced &lt;translate> tag.\nTranslation template: <pre>$1</pre>"
 msgstr "Unbalanced &lt;translate> tag.\nTranslation template: <pre>$1</pre>"
 
 #. [Wiki] Error shown after an attempt to mark a page for translation, see [[mw:Help:Extension:Translate/Page translation administration]] for context.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] "Translation template" is the structure of a translation page, where the place for the translations of each section is marked with a placeholder.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation template
 #. [Wiki] See also:
@@ -4038,9 +1845,9 @@ msgid "Unbalanced &lt;/translate> tag.\nTranslation template: <pre>$1</pre>"
 msgstr "Unbalanced &lt;/translate> tag.\nTranslation template: <pre>$1</pre>"
 
 #. [Wiki] Error shown after an attempt to mark a page for translation, see [[mw:Help:Extension:Translate/Page translation administration]] for context.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definitions on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation unit (=section) text
 msgctxt "pt-parse-nested"
@@ -4048,7 +1855,7 @@ msgid "Nested &lt;translate> translation units are not allowed.\nTag text: <pre>
 msgstr "Nested &lt;translate> translation units are not allowed.\nTag text: <pre>$1</pre>"
 
 #. [Wiki] Each translation unit (=section) can only contain one marker.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation unit (=section) text
 msgctxt "pt-shake-multiple"
@@ -4056,9 +1863,9 @@ msgid "Multiple translation unit markers for one translation unit.\nMake sure th
 msgstr "Multiple translation unit markers for one translation unit.\nMake sure that translation units are separated by blank lines.\nTranslation unit text: <pre>$1</pre>"
 
 #. [Wiki] Error shown after an attempt to mark a page for translation, see [[mw:Help:Extension:Translate/Page translation administration]] for context.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definitions on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation unit (=section) text
 msgctxt "pt-shake-position"
@@ -4066,7 +1873,7 @@ msgid "Translation unit markers in unexpected position.\nTranslation unit text: 
 msgstr "Translation unit markers in unexpected position.\nTranslation unit text: <pre>$1</pre>"
 
 #. [Wiki] Translation unit (=section) is empty except for the translation marker (=<nowiki><!--T:1--></nowiki>).
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation unit ID
 msgctxt "pt-shake-empty"
@@ -4209,9 +2016,9 @@ msgid "Aggregate groups modification"
 msgstr "Aggregate groups modification"
 
 #. [Wiki] Used as page title.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - old page title
 msgctxt "pt-movepage-title"
@@ -4219,7 +2026,7 @@ msgid "Move translatable page \"$1\""
 msgstr "Move translatable page \"$1\""
 
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Followed by any of the following error messages:
 #. [Wiki] * {{msg-mw|Pt-movepage-block-base-exists}}
 #. [Wiki] * {{msg-mw|Pt-movepage-block-base-invalid}}
@@ -4229,7 +2036,7 @@ msgstr "Move translatable page \"$1\""
 #. [Wiki] * {{msg-mw|Pt-movepage-block-section-invalid}}
 #. [Wiki] * {{msg-mw|Pt-movepage-block-subpage-exists}}
 #. [Wiki] * {{msg-mw|Pt-movepage-block-subpage-invalid}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - number of error messages
 msgctxt "pt-movepage-blockers"
@@ -4248,7 +2055,7 @@ msgid "The target translatable page name is not a valid title."
 msgstr "The target translatable page name is not a valid title."
 
 #. [Wiki] translation page is a translated version of a translatable page.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - (Unused) old page title
 #. [Wiki] * $2 - new page title
@@ -4261,9 +2068,9 @@ msgstr "The target translation page \"[[:$2]]\" exists."
 #. [Wiki] * The user tried to move the page "[[:$1]]" to a new page title.
 #. [Wiki] * If successful, the page, along with the translation units will be moved to the target pages.
 #. [Wiki] * But the destination page title for the translation page would be invalid (too long?).
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - old page title (translatable page title)
 #. [Wiki] {{Related|Pt-movepage-block-invalid}}
@@ -4272,7 +2079,7 @@ msgid "The target translation page title for \"[[:$1]]\" would be invalid (too l
 msgstr "The target translation page title for \"[[:$1]]\" would be invalid (too long?)."
 
 #. [Wiki] Section page is a translation of one section. Translation page consists of many translation sections.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - (Unused) old page title
 #. [Wiki] * $2 - new page title
@@ -4293,7 +2100,7 @@ msgid "The target page title for \"[[:$1]]\" for the translation unit would be i
 msgstr "The target page title for \"[[:$1]]\" for the translation unit would be invalid (too long?)."
 
 #. [Wiki] Subpage is here any subpage of translation page, which is not a translated version of the translatable page.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - (Unused) old page title
 #. [Wiki] * $2 - new page title
@@ -4314,9 +2121,9 @@ msgid "The target subpage title for \"[[:$1]]\" would be invalid (too long?)."
 msgstr "The target subpage title for \"[[:$1]]\" would be invalid (too long?)."
 
 #. [Wiki] Used as section header.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - (Unused) number of old pages to move
 #. [Wiki] {{Related|Pt-movepage-list}}
@@ -4325,9 +2132,9 @@ msgid "List of pages to move"
 msgstr "List of pages to move"
 
 #. [Wiki] Used as section header.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - number of translation pages
 #. [Wiki] {{Related|Pt-movepage-list}}
@@ -4336,9 +2143,9 @@ msgid "Translation {{PLURAL:$1|page|pages}}"
 msgstr "Translation {{PLURAL:$1|page|pages}}"
 
 #. [Wiki] Used as section header.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - number of translation unit pages (section pages)
 #. [Wiki] {{Related|Pt-movepage-list}}
@@ -4347,7 +2154,7 @@ msgid "Translation unit {{PLURAL:$1|page|pages}}"
 msgstr "Translation unit {{PLURAL:$1|page|pages}}"
 
 #. [Wiki] Used as a section header.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - number of pages
 msgctxt "pt-movepage-list-translatable"
@@ -4360,9 +2167,9 @@ msgid "These pages must be moved separately."
 msgstr "These pages must be moved separately."
 
 #. [Wiki] Header of a list of additional subpages (other than translation pages) of the translatable page being moved, when the user selected the option to move subpages as well.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - number of subpages
 #. [Wiki] {{Related|Pt-movepage-list}}
@@ -4371,7 +2178,7 @@ msgid "Other {{PLURAL:$1|subpage|subpages}}"
 msgstr "Other {{PLURAL:$1|subpage|subpages}}"
 
 #. [Wiki] Used to indicate how many pages will be moved.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - Total number of pages
 #. [Wiki] * $2 - Number of subpages
@@ -4381,8 +2188,8 @@ msgctxt "pt-movepage-list-count"
 msgid "In total $1 {{PLURAL:$1|page|pages}} to move and $2 {{PLURAL:$2|subpage|subpages}}."
 msgstr "In total $1 {{PLURAL:$1|page|pages}} to move and $2 {{PLURAL:$2|subpage|subpages}}."
 
-#. [Wiki] Warning shown to the user when they try to move a large number of pages and the operation is not supported by the wiki. 
-#. [Wiki] 
+#. [Wiki] Warning shown to the user when they try to move a large number of pages and the operation is not supported by the wiki.
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - Number of pages being moved
 msgctxt "pt-movepage-page-count-limit"
@@ -4440,9 +2247,9 @@ msgid "This special page allows you to move pages which are marked for translati
 msgstr "This special page allows you to move pages which are marked for translation.\nThe move action will not be instant, because many pages will need to be moved.\nWhile the pages are being moved, it is not possible to interact with the pages in question.\nFailures will be logged in the [[Special:Log/pagetranslation|page translation log]] and they need to be repaired by hand."
 
 #. [Wiki] Used as summary.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translatable-page title
 msgctxt "pt-movepage-logreason"
@@ -4467,9 +2274,9 @@ msgstr "This page is locked because the translatable page is currently being mov
 
 #. [Wiki] Used as page title. Parameters:
 #. [Wiki] * $1 - page title
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Pt-deletepage-full-title}}
 msgctxt "pt-deletepage-lang-title"
@@ -4478,9 +2285,9 @@ msgstr "Deleting translation page \"$1\""
 
 #. [Wiki] Used as page title. Parameters:
 #. [Wiki] * $1 - page title
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Pt-deletepage-lang-title}}
 msgctxt "pt-deletepage-full-title"
@@ -4503,7 +2310,7 @@ msgid "List pages to be deleted"
 msgstr "List pages to be deleted"
 
 #. [Wiki] Submit button on special page 'Deleting translatable page'. See [[mw:File:Translate_manual_-_Page_example_-_25._Delete_confirm.png|screenshot]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] i think it's mean delete right now.
 msgctxt "pt-deletepage-action-perform"
 msgid "Do the deletion"
@@ -4565,7 +2372,7 @@ msgid "Other subpages"
 msgstr "Other subpages"
 
 #. [Wiki] Used to indicate how many pages will be deleted.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - number of pages
 #. [Wiki] * $2 - Number of subpages
@@ -4581,9 +2388,9 @@ msgid "No pages found."
 msgstr "No pages found."
 
 #. [Wiki] Used as summary.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translatable-page title
 #. [Wiki] See also:
@@ -4593,9 +2400,9 @@ msgid "Part of translatable page \"$1\""
 msgstr "Part of translatable page \"$1\""
 
 #. [Wiki] Used as summary.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See definition on [[mw:Help:Extension:Translate/Glossary]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - translation-page title
 #. [Wiki] See also:
@@ -4608,218 +2415,6 @@ msgstr "Part of translation page \"$1\""
 msgctxt "pt-deletepage-started"
 msgid "Please check the [[Special:Log/pagetranslation|page translation log]] for errors and completion message."
 msgstr "Please check the [[Special:Log/pagetranslation|page translation log]] for errors and completion message."
-
-#. [Wiki] Help message when deleting a translatable page or a translation page.
-msgctxt "pt-deletepage-intro"
-msgid "This special page allows you delete a whole translatable page, or an individual translation page in a language.\nThe delete action will not be instant, because all the pages depending on them will also be deleted.\nFailures will be logged in the [[Special:Log/pagetranslation|page translation log]] and they need to be repaired by hand."
-msgstr "This special page allows you delete a whole translatable page, or an individual translation page in a language.\nThe delete action will not be instant, because all the pages depending on them will also be deleted.\nFailures will be logged in the [[Special:Log/pagetranslation|page translation log]] and they need to be repaired by hand."
-
-#. [Wiki] {{doc-special|PageMigration}}
-#. [Wiki] See the [[mw:Special:MyLanguage/Help:Extension:Translate/Page_translation_administration#migration|page migration help]] for more information.
-msgctxt "pagemigration"
-msgid "Translation page migration"
-msgstr "Translation page migration"
-
-#. [Wiki] Description appearing on top of [[Special:PageMigration]].
-msgctxt "pagemigration-summary"
-msgid "Specify a translation page and restore any translation made before the Translate system was enabled on that page."
-msgstr "Specify a translation page and restore any translation made before the Translate system was enabled on that page."
-
-#. [Wiki] Used as label for the "Import" button.
-#. [Wiki] {{Identical|Import}}
-msgctxt "pm-import-button-label"
-msgid "Import"
-msgstr "Import"
-
-#. [Wiki] Used as label for the "Save pages" button.
-#. [Wiki] {{Identical|Save}}
-msgctxt "pm-savepages-button-label"
-msgid "Save"
-msgstr "Save"
-
-#. [Wiki] Label for button to cancel the imports and clear the window.
-#. [Wiki] {{Identical|Cancel}}
-msgctxt "pm-cancel-button-label"
-msgid "Cancel"
-msgstr "Cancel"
-
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - page title
-msgctxt "pm-page-does-not-exist"
-msgid "$1 does not exist."
-msgstr "$1 does not exist."
-
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - page title
-msgctxt "pm-old-translations-missing"
-msgid "$1 does not contain old translations."
-msgstr "$1 does not contain old translations."
-
-#. [Wiki] Warning given when number of translation units are greater than the number of source units
-msgctxt "pm-extra-units-warning"
-msgid "Extra units might be present. Please match the source and translation units properly."
-msgstr "Extra units might be present. Please match the source and translation units properly."
-
-#. [Wiki] Error message given when page title field does not contain a base page name.
-msgctxt "pm-pagename-missing"
-msgid "Please enter the page name."
-msgstr "Please enter the page name."
-
-#. [Wiki] Hover text for add new unit icon
-msgctxt "pm-add-icon-hover-text"
-msgid "Add a unit below"
-msgstr "Add a unit below"
-
-#. [Wiki] Hover text for the icon on Special:PageMigration which, when clicked, swaps a unit (text area) with the unit below.
-msgctxt "pm-swap-icon-hover-text"
-msgid "Swap with unit below"
-msgstr "Swap with unit below"
-
-#. [Wiki] Hover text for delete unit icon
-msgctxt "pm-delete-icon-hover-text"
-msgid "Delete unit"
-msgstr "Delete unit"
-
-#. [Wiki] Placeholder for the page title input field.
-msgctxt "pm-pagetitle-placeholder"
-msgid "Enter the page title"
-msgstr "Enter the page title"
-
-#. [Wiki] Error message given when an invalid page title is entered. You should translate format indication; you can localize brackets but you must keep the middle slash <code>/</code>.
-msgctxt "pm-pagetitle-invalid"
-msgid "Please enter a valid page title. It should be in <page-name>/<language-code> format."
-msgstr "Please enter a valid page title. It should be in <page-name>/<language-code> format."
-
-#. [Wiki] Error message given when page title field is blank
-msgctxt "pm-pagetitle-missing"
-msgid "Please enter the page title."
-msgstr "Please enter the page title."
-
-#. [Wiki] Error message given when the page title field does not contain a language code.
-#. [Wiki] {{doc-important|Do not translate "<code><page-name>/<language-code></code>".}}
-msgctxt "pm-langcode-missing"
-msgid "The language code seems to be missing in the title. Please enter the page title in the format <page-name>/<language-code>."
-msgstr "The language code seems to be missing in the title. Please enter the page title in the format <page-name>/<language-code>."
-
-#. [Wiki] Edit summary used while creating translation pages which were imported using [[Special:PageMigration]], see [[mw:Help:Extension:Translate/Page_translation_administration#Migrating to page translation]]
-msgctxt "pm-summary-import"
-msgid "Imported translation using [[Special:PageMigration|page migration]]"
-msgstr "Imported translation using [[Special:PageMigration|page migration]]"
-
-#. [Wiki] Message shown at Special:PageMigration after importing the translations
-msgctxt "pm-on-import-message-text"
-msgid "The old translations have been imported. Use the add, swap and delete options to adjust the translation units and click the \"{{int:pm-savepages-button-label}}\" button to save them. Click the \"{{int:pm-cancel-button-label}}\" button to discard."
-msgstr "The old translations have been imported. Use the add, swap and delete options to adjust the translation units and click the \"{{int:pm-savepages-button-label}}\" button to save them. Click the \"{{int:pm-cancel-button-label}}\" button to discard."
-
-#. [Wiki] Message shown at Special:PageMigration after saving the translation units
-msgctxt "pm-on-save-message-text"
-msgid "The translation units have been saved. You can now enter the title of a new translation page to migrate it, or make changes to the units below and save a new revision."
-msgstr "The translation units have been saved. You can now enter the title of a new translation page to migrate it, or make changes to the units below and save a new revision."
-
-#. [Wiki] Checkbox on Special:PageTranslation to mark title for translation
-msgctxt "tpt-translate-title"
-msgid "Allow translation of page title"
-msgstr "Allow translation of page title"
-
-#. [Wiki] Edit summary for saving a page prepared for translation by the tool
-msgctxt "pp-save-summary"
-msgid "Prepared the page for translation"
-msgstr "Prepared the page for translation"
-
-#. [Wiki] {{doc-special|PageMigration}}
-msgctxt "pagepreparation"
-msgid "Prepare page for translation"
-msgstr "Prepare page for translation"
-
-#. [Wiki] Description appearing on top of [[Special:PagePreparation]].
-msgctxt "pagepreparation-summary"
-msgid "Specify a page title to prepare for translation."
-msgstr "Specify a page title to prepare for translation."
-
-#. [Wiki] Placeholder for the pagename input field.
-msgctxt "pp-pagename-placeholder"
-msgid "Enter the page name"
-msgstr "Enter the page name"
-
-#. [Wiki] Used as label for the "Prepare" button.
-#. [Wiki] {{Identical|Prepare}}
-msgctxt "pp-prepare-button-label"
-msgid "Prepare"
-msgstr "Prepare"
-
-#. [Wiki] Used as label for the "Save" button.
-#. [Wiki] {{Identical|Save}}
-msgctxt "pp-save-button-label"
-msgid "Publish"
-msgstr "Publish"
-
-#. [Wiki] Used as label for the "Cancel" button.
-#. [Wiki] {{Identical|Cancel}}
-msgctxt "pp-cancel-button-label"
-msgid "Cancel"
-msgstr "Cancel"
-
-#. [Wiki] Message shown after the page is saved with the prepared text. Parameters:
-#. [Wiki] * $1 - a link to edit the page
-msgctxt "pp-save-message"
-msgid "The page was published. You can [$1 edit] it."
-msgstr "The page was published. You can [$1 edit] it."
-
-#. [Wiki] Info message shown after the page is prepared for translation
-msgctxt "pp-prepare-message"
-msgid "The page was prepared for translation. See the diff below. Click the \"{{int:pp-save-button-label}}\" button if okay!"
-msgstr "The page was prepared for translation. See the diff below. Click the \"{{int:pp-save-button-label}}\" button if okay!"
-
-#. [Wiki] Info message shown if the page is already prepared for translation
-msgctxt "pp-already-prepared-message"
-msgid "It seems the page has already been prepared for translation. There are no changes compared to the previous version."
-msgstr "It seems the page has already been prepared for translation. There are no changes compared to the previous version."
-
-#. [Wiki] Error message show on the Special:PagePreparation when there is an error fetching the diff from the server.
-msgctxt "pp-diff-error"
-msgid "There was an error while fetching the diff from the server."
-msgstr "There was an error while fetching the diff from the server."
-
-#. [Wiki] Error message given when page title field is blank
-msgctxt "pp-pagename-missing"
-msgid "Please enter the page name."
-msgstr "Please enter the page name."
-
-#. [Wiki] Header text for old revision for the diff shown at Special:PagePreparation
-msgctxt "pp-diff-old-header"
-msgid "Source text"
-msgstr "Source text"
-
-#. [Wiki] Header text for new revision for the diff shown at Special:PagePreparation
-msgctxt "pp-diff-new-header"
-msgid "Prepared text"
-msgstr "Prepared text"
-
-#. [Wiki] Confirmation message shown to user when unmarking page in active translation.
-msgctxt "tpt-unlink-confirm"
-msgid "Please confirm that you really want to remove this page from the translation system.\nThe language selector and translated page names will stop working.\nThe translation pages will become editable."
-msgstr "Please confirm that you really want to remove this page from the translation system.\nThe language selector and translated page names will stop working.\nThe translation pages will become editable."
-
-#. [Wiki] Button text
-msgctxt "tpt-unlink-button"
-msgid "Remove from translation"
-msgstr "Remove from translation"
-
-#. [Wiki] Edit summary
-msgctxt "tpt-unlink-summary"
-msgid "Removed page from translation"
-msgstr "Removed page from translation"
-
-#. [Wiki] Confirmation message shown to user on Special:PageTranslation. Mostly shown to users without JavaScript.
-msgctxt "tpt-generic-confirm"
-msgid "Please confirm the action."
-msgstr "Please confirm the action."
-
-#. [Wiki] Butten text message shown to user on Special:PageTranslation. Mostly shown to users without JavaScript.
-#. [Wiki] {{Identical|Confirm}}
-msgctxt "tpt-generic-button"
-msgid "Confirm"
-msgstr "Confirm"
 
 #. [Wiki] Warning shown on Special:PageTranslation when translation variable names contain characters that do not work as an insertable in the translation interface
 msgctxt "tpt-validation-not-insertable"
@@ -4837,7 +2432,7 @@ msgid "Manage translator sandbox"
 msgstr "Manage translator sandbox"
 
 #. [Wiki] A filter option on [[Special:TranslateSandbox]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Followed by a list of the pending requests.
 msgctxt "tsb-filter-pending"
 msgid "Pending requests"
@@ -4940,7 +2535,7 @@ msgid "{{PLURAL:$1|$1 user selected|$1 users selected}}"
 msgstr "{{PLURAL:$1|$1 user selected|$1 users selected}}"
 
 #. [Wiki] A link shown at the footer of the requests list. Clicking the link selects all the requests that are older than the oldest currently-selected request.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - the number of older requests. It can be 0, yet if so, the link is hidden per CSS class.
 msgctxt "tsb-older-requests"
@@ -4948,7 +2543,7 @@ msgid "$1 older {{PLURAL:$1|request|requests}}"
 msgstr "$1 older {{PLURAL:$1|request|requests}}"
 
 #. [Wiki] Button label for accept-all button in [[Special:TranslateSandbox]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tsb-reject-all-button-label}}
 msgctxt "tsb-accept-all-button-label"
@@ -4956,7 +2551,7 @@ msgid "Accept all"
 msgstr "Accept all"
 
 #. [Wiki] Button label for reject-all button in [[Special:TranslateSandbox]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tsb-accept-all-button-label}}
 msgctxt "tsb-reject-all-button-label"
@@ -4969,7 +2564,7 @@ msgid "Not a translator"
 msgstr "Not a translator"
 
 #. [Wiki] Link text for sending reminder emails about translator signup requests.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Tsb-reminder-sent-new}}
 msgctxt "tsb-reminder-link-text"
@@ -4988,7 +2583,7 @@ msgid "Source"
 msgstr "Source"
 
 #. [Wiki] Table header label for user translations in [[Special:TranslateSandbox]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] Parameters:
 #. [Wiki] * $1 - user, can be used for GENDER
 msgctxt "tsb-translations-user"
@@ -5033,7 +2628,7 @@ msgid "Become familiar with the translation tools. Translate some messages and g
 msgstr "Become familiar with the translation tools. Translate some messages and get full-translator rights to participate in your favorite projects."
 
 #. [Wiki] Header for messages showing the progress of translations in [[Special:TranslationStash]].
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] See also:
 #. [Wiki] * {{msg-mw|Translate-translationstash-translations}}
 msgctxt "translate-translationstash-initialtranslation"
@@ -5061,198 +2656,3 @@ msgstr "Thanks for your translations"
 msgctxt "tsb-limit-reached-body"
 msgid "You reached the translation limit for new translators.\nOur team will verify and upgrade your account soon.\nThen you will be able to translate without limits."
 msgstr "You reached the translation limit for new translators.\nOur team will verify and upgrade your account soon.\nThen you will be able to translate without limits."
-
-#. [Wiki] Shown on [[Special:TranslateSandbox]] when there are no requests for approval from new users.
-msgctxt "tsb-no-requests-from-new-users"
-msgid "No requests from new users"
-msgstr "No requests from new users"
-
-#. [Wiki] Edit summary for user page creation once approved as translator. Will be in content language.
-msgctxt "tsb-create-user-page"
-msgid "Created basic user page"
-msgstr "Created basic user page"
-
-#. [Wiki] {{doc-logpage}}
-msgctxt "log-name-translatorsandbox"
-msgid "Translation sandbox log"
-msgstr "Translation sandbox log"
-
-#. [Wiki] Log page description
-msgctxt "log-description-translatorsandbox"
-msgid "A log of actions on translation sandbox users"
-msgstr "A log of actions on translation sandbox users"
-
-#. [Wiki] {{logentry}}
-#. [Wiki] * $4 - The name of the user that was promoted, can be used for GENDER.
-msgctxt "logentry-translatorsandbox-promoted"
-msgid "$1 {{GENDER:$2|promoted}} $3 to {{GENDER:$4|translator}}"
-msgstr "$1 {{GENDER:$2|promoted}} $3 to {{GENDER:$4|translator}}"
-
-#. [Wiki] {{logentry}}
-#. [Wiki] ----
-#. [Wiki] $3 is a user (usually linked), who has made a request, which was rejected by $1.<br/>
-#. [Wiki] '''FIXME''': we need $4 for the plain user name which can be used with <nowiki>{{GENDER:$4|translator}}</nowiki>
-msgctxt "logentry-translatorsandbox-rejected"
-msgid "$1 {{GENDER:$2|rejected}} the request from \"$3\" to become a translator"
-msgstr "$1 {{GENDER:$2|rejected}} the request from \"$3\" to become a translator"
-
-#. [Wiki] {{logentry}}
-#. [Wiki] <br/>
-#. [Wiki] '''FIXME''': we need $4 for the plain user name which can be used with <nowiki>{{GENDER:$4|translator}}</nowiki>
-msgctxt "logentry-newusers-tsbpromoted"
-msgid "User account $3 was {{GENDER:$2|created}} by promotion from sandbox"
-msgstr "User account $3 was {{GENDER:$2|created}} by promotion from sandbox"
-
-#. [Wiki] {{doc-special|SearchTranslations}}
-#. [Wiki] {{Identical|Search translation}}
-msgctxt "searchtranslations"
-msgid "Search translations"
-msgstr "Search translations"
-
-#. [Wiki] A link text.
-msgctxt "tux-sst-edit"
-msgid "Edit translation"
-msgstr "Edit translation"
-
-#. [Wiki] A link text. Parameters:
-#. [Wiki] * $1 - the domain/host name where the link points to.
-msgctxt "tux-sst-view-foreign"
-msgid "View at $1"
-msgstr "View at $1"
-
-#. [Wiki] A button text.
-#. [Wiki] {{Identical|Search}}
-msgctxt "tux-sst-search"
-msgid "Search"
-msgstr "Search"
-
-#. [Wiki] Placeholder text in input field.
-#. [Wiki] {{Identical|Search translation}}
-msgctxt "tux-sst-search-ph"
-msgid "Search translations"
-msgstr "Search translations"
-
-#. [Wiki] Parameters:
-#. [Wiki] * $1 - the number of search results
-msgctxt "tux-sst-count"
-msgid "{{PLURAL:$1|One result found|$1 results found}}"
-msgstr "{{PLURAL:$1|One result found|$1 results found}}"
-
-#. [Wiki] Label for a facet in [[Special:SearchTranslations]].
-#. [Wiki] {{Identical|Language}}
-msgctxt "tux-sst-facet-language"
-msgid "Languages"
-msgstr "Languages"
-
-#. [Wiki] Label for a facet in [[Special:SearchTranslations]].
-#. [Wiki] {{Identical|Message group}}
-msgctxt "tux-sst-facet-group"
-msgid "Message groups"
-msgstr "Message groups"
-
-#. [Wiki] Used as title of error page.
-#. [Wiki] 
-#. [Wiki] The body of error message is {{msg-mw|Tux-sst-nosolr-body}}.
-#. [Wiki] {{Identical|Search unavailable}}
-msgctxt "tux-sst-nosolr-title"
-msgid "Search unavailable"
-msgstr "Search unavailable"
-
-#. [Wiki] Used as error message.
-#. [Wiki] 
-#. [Wiki] The page title for this message is {{msg-mw|Tux-sst-nosolr-title}}.
-msgctxt "tux-sst-nosolr-body"
-msgid "This wiki does not have a translation search service."
-msgstr "This wiki does not have a translation search service."
-
-#. [Wiki] Used as title of error page.
-#. [Wiki] 
-#. [Wiki] The body of error message is {{msg-mw|Tux-sst-solr-offline-body}}.
-#. [Wiki] {{Identical|Search unavailable}}
-msgctxt "tux-sst-solr-offline-title"
-msgid "Search unavailable"
-msgstr "Search unavailable"
-
-#. [Wiki] Used as error message.
-#. [Wiki] 
-#. [Wiki] The page title for this message is {{msg-mw|tux-sst-solr-offline-title}}.
-msgctxt "tux-sst-solr-offline-body"
-msgid "The search service is temporarily unavailable."
-msgstr "The search service is temporarily unavailable."
-
-#. [Wiki] Link to browser more search results.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Tux-sst-prev}}
-msgctxt "tux-sst-next"
-msgid "Next ›"
-msgstr "Next ›"
-
-#. [Wiki] Link to browser more search results.
-#. [Wiki] 
-#. [Wiki] See also:
-#. [Wiki] * {{msg-mw|Tux-sst-next}}
-msgctxt "tux-sst-prev"
-msgid "‹ Previous"
-msgstr "‹ Previous"
-
-#. [Wiki] Label for a tab to show translations for the language.
-#. [Wiki] {{Identical|Translation}}
-msgctxt "tux-sst-default"
-msgid "Translations"
-msgstr "Translations"
-
-#. [Wiki] Label for a tab to show translated messages matching the query in the source language. Parameters:
-#. [Wiki] * $1 - the language code of the source text.
-msgctxt "tux-sst-translated"
-msgid "Translations from $1"
-msgstr "Translations from $1"
-
-#. [Wiki] Label for a tab to show untranslated messages matching the query in the source language. Parameters:
-#. [Wiki] * $1 - the language code of the source text.
-msgctxt "tux-sst-untranslated"
-msgid "No translation from $1"
-msgstr "No translation from $1"
-
-#. [Wiki] Label for a tab to show outdated messages matching the query in the source language. Parameters:
-#. [Wiki] * $1 - the language code of the source text.
-msgctxt "tux-sst-outdated"
-msgid "Outdated translations from $1"
-msgstr "Outdated translations from $1"
-
-#. [Wiki] Used as label for an ellipsis to hide untranslated messages.
-msgctxt "tux-sst-ellipsis-untranslated"
-msgid "No translation"
-msgstr "No translation"
-
-#. [Wiki] Used as label for an ellipsis to hide outdated messages.
-msgctxt "tux-sst-ellipsis-outdated"
-msgid "Outdated translations"
-msgstr "Outdated translations"
-
-#. [Wiki] Link to filter the results to match all search words.
-msgctxt "tux-sst-link-all-match"
-msgid "Require all search words."
-msgstr "Require all search words."
-
-#. [Wiki] Used to inform users about an option to get results for all search words. Parameters:
-#. [Wiki] * $1 - {{msg-mw|tux-sst-link-all-match}}.
-msgctxt "tux-sst-match-message"
-msgid "Showing translations which match any of the search words. $1"
-msgstr "Showing translations which match any of the search words. $1"
-
-#. [Wiki] Label for a case sensitive checkbox
-msgctxt "tux-sst-case-sensitive"
-msgid "Case sensitive"
-msgstr "Case sensitive"
-
-#. [Wiki] Shown on Special:SearchTranslations when offset is too large.
-msgctxt "tux-sst-error-offset"
-msgid "No more search results can be shown. Please narrow your search."
-msgstr "No more search results can be shown. Please narrow your search."
-
-#. [Wiki] Shown on Special:SearchTranslations when search query is invalid.
-msgctxt "tux-sst-error-language"
-msgid "This language cannot be used with this type of search."
-msgstr "This language cannot be used with this type of search."
-
